@@ -9,11 +9,13 @@ Fourth panel of the satire timeline (mythic past ↔ 1985 ↔ 2026 ↦ 2045). Mo
 
 ## Tier mix (LOCKED, verified by word count)
 
-- **LONG (700–1200w): 6** — 01, 03, 04, 05, 07, 11
-- **MEDIUM (250–500w): 9** — 02, 06, 09, 10, 12, 14, 16, 17, 20 (all 401–492w; ceiling widened to 500 to fit the feature mediums after trimming 06 and 20 down from ~630w)
-- **SHORT (90–200w): 6** — 08, 13, 15, 18, 19, 21 (all trimmed/built to land in band; 13=170, 21=149, rest ~199–208 by raw wc, ≤201 prose)
+Bands recalibrated for Vietnamese whitespace tokens (syllables), counted with `wc -w` on the body below the YAML close. Depth-expansion pass landed every file in band; corpus grew 9,716 → 19,035 tokens.
 
-readMinutes: LONG 6–8 · MEDIUM 4 · SHORT 2.
+- **LONG (1,500–2,200w): 6** — 01 (2106), 03 (1651), 04 (1886), 05 (1824), 07 (1809), 11 (1808). Added subheads: 01 "Nhìn lại ba mùa lũ" + phương án ứng phó; 04 childhood/brotherhood arc; 05 "tấm gương sống trong từng mái nhà"; 07 "bài học khởi nghiệp: bốn bước"; 11 fact-trail "Dòng thời gian vụ việc"; 03 "khi cả làng cùng chạy đua".
+- **MEDIUM (600–900w): 9** — 02 (647), 06 (664), 09 (726), 10 (664), 12 (697), 14 (686), 16 (754), 17 (671), 20 (692). Each +1 source quote +1 context/background graf.
+- **SHORT (250–400w): 6** — 08 (279), 13 (282), 15 (311), 18 (307), 19 (292), 21 (279). Each +1 concrete detail +1 vox-pop line; kept brief-flavored.
+
+readMinutes: LONG 8–10 · MEDIUM 4 · SHORT 2.
 
 ## Roster
 
