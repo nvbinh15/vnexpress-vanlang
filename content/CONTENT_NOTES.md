@@ -32,7 +32,7 @@ readMinutes: LONG 8–10 · MEDIUM 4 · SHORT 2.
 | 9 | dat-nen-chan-nui-tan-vien-tang-gia | bat-dong-san | M | | 5 | 1103 | Real-estate instinct: high-ground land sốt after lũ |
 | 10 | the-gioi-phuong-bac-thong-nhat-thien-ha | the-gioi | M | | 4 | 887 | Foreign desk: nhà Tần–energy power unifying thiên hạ, deadpan |
 | 11 | duong-day-ga-chin-cua-gia-khoa-thi-ken-re | phap-luat | L | | 7 | 1980 | Counterfeit lễ vật (gà chín cựa giả) investigation; replaced nỏ thần hồ sơ — Âu Lạc era is AFTER Văn Lang, chronology breach |
-| 12 | hoi-vat-dau-xuan-dua-thuyen | the-thao | M | | 5 | 1672 | Wrestling + boat-race; làng rivalry; bóng-đá-passion energy |
+| 12 | hoi-vat-dau-mua-dua-thuyen | the-thao | M | | 5 | 1672 | Wrestling + boat-race; làng rivalry; bóng-đá-passion energy |
 | 13 | ket-qua-vong-loai-dua-thuyen | the-thao | S | | 4 | 538 | Boat-race qualifier results brief |
 | 14 | doi-song-tuc-an-trau-nhuom-rang | doi-song | M | | 4 | 1340 | Răng-đen trend/"trào lưu" lifestyle piece |
 | 15 | meo-bao-quan-banh-chung-qua-mua-lu | doi-song | S | | 4 | 392 | Service journalism: storing bánh chưng through floods |
@@ -41,7 +41,7 @@ readMinutes: LONG 8–10 · MEDIUM 4 · SHORT 2.
 | 18 | khoa-thi-ken-re-mo-dang-ky | giao-duc | S | | 4 | 967 | Admissions-news deadpan: voi chín ngà gà chín cựa ngựa chín hồng mao |
 | 19 | thu-gian-10-dau-hieu-thuy-tinh-sap-dang-nuoc | thu-gian | S | | 4 | 1576 | Listicle parody, "dấu hiệu số 7 ai cũng gặp" |
 | 20 | chu-dong-tu-tien-dung-chuyen-tinh-vuot-giai-cap | doi-song | M | | 5 | 1894 | Relationship feature: class-gap romance, chiếc khố handled delicately |
-| 21 | gia-dua-hau-tang-vot-sau-lu | kinh-doanh | S | | 3 | 311 | Chợ phiên price flash on dưa hấu; post-lũ scarcity; reuses #07 Mai An Tiêm hero |
+| 21 | gia-dua-hau-tang-vot-sau-lu | kinh-doanh | S | | 3 | 311 | Chợ phiên price flash on dưa hấu; post-lũ scarcity; own Đông Hồ hero |
 
 ## Cross-era beams threaded
 - **Flood (Thủy Tinh = eternal lũ):** 1, 2, 9, 15, 19, 21
