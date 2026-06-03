@@ -31,7 +31,7 @@ readMinutes: LONG 8–10 · MEDIUM 4 · SHORT 2.
 | 8 | gia-trau-cau-tang-manh-mua-cuoi | kinh-doanh | S | | 4 | 426 | Chợ phiên price brief, mùa cưới |
 | 9 | dat-nen-chan-nui-tan-vien-tang-gia | bat-dong-san | M | | 5 | 1103 | Real-estate instinct: high-ground land sốt after lũ |
 | 10 | the-gioi-phuong-bac-thong-nhat-thien-ha | the-gioi | M | | 4 | 887 | Foreign desk: nhà Tần–energy power unifying thiên hạ, deadpan |
-| 11 | ho-so-vu-an-no-than-trong-thuy | phap-luat | L | | 6 | 2210 | Investigative hồ sơ; espionage; Mỵ Châu guarded as victim, not blamed |
+| 11 | duong-day-ga-chin-cua-gia-khoa-thi-ken-re | phap-luat | L | | 7 | 1980 | Counterfeit lễ vật (gà chín cựa giả) investigation; replaced nỏ thần hồ sơ — Âu Lạc era is AFTER Văn Lang, chronology breach |
 | 12 | hoi-vat-dau-xuan-dua-thuyen | the-thao | M | | 5 | 1672 | Wrestling + boat-race; làng rivalry; bóng-đá-passion energy |
 | 13 | ket-qua-vong-loai-dua-thuyen | the-thao | S | | 4 | 538 | Boat-race qualifier results brief |
 | 14 | doi-song-tuc-an-trau-nhuom-rang | doi-song | M | | 4 | 1340 | Răng-đen trend/"trào lưu" lifestyle piece |

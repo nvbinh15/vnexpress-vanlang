@@ -1,0 +1,217 @@
+[
+  {
+    "id": "c1",
+    "username": "Lạc dân họ Trần",
+    "location": "Ven sông Cái",
+    "timestamp": "0018-07-14T09:05:00+07:00",
+    "body": "Đứng. Đọc đến đoạn 'số lượng nhiều' là biết ngay có chuyện. Gà chín cựa mà như măng mọc sau mưa thì trời cũng không tin nổi.",
+    "likes": 1842,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Dân chài bến Kẻ Chủ",
+        "location": "Chợ phiên Kẻ Chủ",
+        "timestamp": "0018-07-14T09:40:00+07:00",
+        "body": "Bác tinh chứ cả chợ hôm ấy chen nhau đặt cọc, tôi đứng nhìn mà sốt ruột thay.",
+        "likes": 512
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Cha có con đi thi",
+    "location": "Bộ Vũ Ninh",
+    "timestamp": "0018-07-14T09:22:00+07:00",
+    "body": "Nhà tôi cũng suýt đổi hai con trâu. May ông nội nó bắt mang gà ra nhúng chân nước ấm trước. Cụ bảo: cưới xin gì thì cưới, trâu là trâu. Cụ nói đúng cả hai vế.",
+    "likes": 2371,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Già làng Kẻ Vạc",
+        "location": "Chân núi Tản",
+        "timestamp": "0018-07-14T10:10:00+07:00",
+        "body": "Cụ nhà bác là người hiểu chuyện. Mẹo nhúng nước ấm là mẹo cổ, keo nhựa sung gặp ấm là nhả.",
+        "likes": 968
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Thương nhân trầu cau",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-14T10:02:00+07:00",
+    "body": "Xin nói đỡ cho dân buôn chúng tôi một câu: cả chợ mấy trăm lều, gian chỉ có ba lều ấy. Đừng vì mấy cái cựa tre mà nghi cả chợ, tội cho người làm ăn ngay thẳng.",
+    "likes": 1204,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Người qua đường",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-14T10:35:00+07:00",
+        "body": "Nói thế cũng phải, nhưng bác thông cảm, mất ba con trâu thì ai chả nghi cả chợ.",
+        "likes": 633
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Mẹ ba con trai",
+    "location": "Ven sông Cái",
+    "timestamp": "0018-07-14T11:18:00+07:00",
+    "body": "Đọc đoạn thằng bé bảo 'mẹ ơi hay là mình thôi, lấy vợ làng mình cũng được' mà rớt nước mắt. Con cái nó nghĩ thoáng hơn người lớn mình nhiều.",
+    "likes": 2954,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Bà mối làng Đông",
+        "location": "Phù Đổng",
+        "timestamp": "0018-07-14T12:01:00+07:00",
+        "body": "Bác nói thế chứ nhà gái nào chả đếm cựa. Thời buổi này tấm lòng phải kèm lễ vật mới đi xa được bác ạ.",
+        "likes": 847
+      },
+      {
+        "id": "c4-r2",
+        "username": "Mẹ ba con trai",
+        "location": "Ven sông Cái",
+        "timestamp": "0018-07-14T12:30:00+07:00",
+        "body": "Thế nên tôi mới buồn đấy bà ạ.",
+        "likes": 1490
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Trai làng chưa vợ",
+    "location": "Bộ Văn Lang",
+    "timestamp": "0018-07-14T12:44:00+07:00",
+    "body": "Voi chín ngà chưa làm giả được vì voi không chịu đứng yên. Đọc đến đây tôi cười thành tiếng giữa ruộng, con trâu nhà quay lại nhìn.",
+    "likes": 2108,
+    "replies": []
+  },
+  {
+    "id": "c6",
+    "username": "Già làng Mộc",
+    "location": "Chân núi Tản",
+    "timestamp": "0018-07-14T13:20:00+07:00",
+    "body": "Tôi là người được nhắc trong bài. Xin nói thêm cho bà con: gà nhiều cựa thật thì cựa mọc so le, con nào cũng có một hai cựa ngắn dài không đều. Thấy con nào chín cựa mà đều tăm tắp như răng lược thì xin mời đi thẳng.",
+    "likes": 3406,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "Lạc dân họ Đinh",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-14T14:02:00+07:00",
+        "body": "Đa tạ cụ. Chép lại ngay câu này cho cả nhà.",
+        "likes": 720
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "Thư lại tập sự",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-14T14:45:00+07:00",
+    "body": "Làm ở công đường hôm lấy khẩu cung, đoạn 'voi không chịu đứng yên' là có thật. Cả công đường phải cố lắm mới giữ được nghiêm, câu ấy trong bài cũng là thật nốt.",
+    "likes": 1577,
+    "replies": []
+  },
+  {
+    "id": "c8",
+    "username": "Dân ven sông quen lũ",
+    "location": "Ven sông Cái",
+    "timestamp": "0018-07-14T15:30:00+07:00",
+    "body": "Thủy Tinh dâng nước năm nào cũng đến hẹn lại lên mà chưa lừa ai bao giờ. Người lừa người mới đáng sợ chứ thần thì rõ ràng sòng phẳng.",
+    "likes": 1933,
+    "replies": []
+  },
+  {
+    "id": "c9",
+    "username": "Chủ lều xem cựa thuê",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-14T16:12:00+07:00",
+    "body": "Từ sáng nay lều tôi xem cựa công một nắm thóc một con, xin thưa là xem thật chứ không bao đỗ. Gà bác nào sáu cựa tôi nói sáu cựa, đừng dúi thêm thóc bảo tôi đếm thành chín.",
+    "likes": 1245,
+    "replies": []
+  },
+  {
+    "id": "c10",
+    "username": "Lái buôn gà lâu năm",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-14T17:05:00+07:00",
+    "body": "Người mật báo lên quan là bạn hàng của tôi. Ông ấy không nhận công, chỉ nhắn một câu: buôn gà cả đời, không để mấy cái cựa tre làm hỏng tiếng cả nghề. Xin bà con một lần khen người tử tế.",
+    "likes": 2689,
+    "replies": [
+      {
+        "id": "c10-r1",
+        "username": "Lạc dân họ Trần",
+        "location": "Ven sông Cái",
+        "timestamp": "0018-07-14T17:40:00+07:00",
+        "body": "Khen. Người như thế chợ nào cũng cần.",
+        "likes": 854
+      }
+    ]
+  },
+  {
+    "id": "c11",
+    "username": "Ông đồ làng",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-14T18:22:00+07:00",
+    "body": "Câu kết của bài đáng đọc hai lần. Chừng nào lễ vật còn đo bằng thứ cả đời gặp một lần, chừng đó còn người vót tre thành cựa. Người viết hiểu chuyện hơn khối người làm lễ.",
+    "likes": 2217,
+    "replies": []
+  },
+  {
+    "id": "c12",
+    "username": "Người từng đứng đầu hàng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-14T19:10:00+07:00",
+    "body": "Hôm trạm khám lễ vật mở cổng nam, tôi đứng đầu hàng từ canh năm. Khám xong gà nhà tôi được phán hai cựa rưỡi. Thôi thì về nuôi tiếp, sang năm thi tiếp.",
+    "likes": 1106,
+    "replies": []
+  },
+  {
+    "id": "c13",
+    "username": "Bác hoài nghi",
+    "location": "Bộ Vũ Ninh",
+    "timestamp": "0018-07-15T08:15:00+07:00",
+    "body": "Ba lều bị bắt mà cựa vót sẵn cả giỏ. Tôi hỏi thật: số cựa ấy vót cho mười bảy con gà thôi à? Quan trên cứ lần theo giỏ cựa mà hỏi, tôi e còn lều khác chưa lộ.",
+    "likes": 1764,
+    "replies": [
+      {
+        "id": "c13-r1",
+        "username": "Tuần đinh nghỉ phiên",
+        "location": "Chợ phiên Kẻ Chủ",
+        "timestamp": "0018-07-15T09:00:00+07:00",
+        "body": "Bác yên tâm, hồ sơ còn mở. Có gì bà con cứ trình lên, đừng ngại.",
+        "likes": 590
+      }
+    ]
+  },
+  {
+    "id": "c14",
+    "username": "Cô gái làng bên",
+    "location": "Chân núi Tản",
+    "timestamp": "0018-07-15T10:30:00+07:00",
+    "body": "Là phận gái, tôi đọc bài mà nghĩ: người ta đếm cựa gà kỹ thế, có ai đếm xem chàng trai ấy tốt được mấy phần không. Mong nhà nào kén rể cũng nhớ cho điều đó.",
+    "likes": 3012,
+    "replies": []
+  },
+  {
+    "id": "c15",
+    "username": "Chủ ruộng mất trâu",
+    "location": "Bộ Vũ Ninh",
+    "timestamp": "0018-07-15T13:45:00+07:00",
+    "body": "Tôi là người trong bài, xin cảm tạ quan coi chợ và người viết. Trâu mất chưa đòi được nhưng đọc thấy nhà mình không phải nhà duy nhất dại, lòng cũng nhẹ đi một nửa. Nhắn các nhà đang sắm lễ: nhúng nước ấm trước, tin tôi đi.",
+    "likes": 4188,
+    "replies": [
+      {
+        "id": "c15-r1",
+        "username": "Mẹ ba con trai",
+        "location": "Ven sông Cái",
+        "timestamp": "0018-07-15T14:20:00+07:00",
+        "body": "Thương bác. Mong cha con bác sớm gây lại đàn trâu, còn chuyện vợ con của cháu thì duyên đến ắt đến, chẳng cần gà nào.",
+        "likes": 1530
+      }
+    ]
+  }
+]
