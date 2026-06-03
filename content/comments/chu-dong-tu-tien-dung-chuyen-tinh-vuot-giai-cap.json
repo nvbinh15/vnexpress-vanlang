@@ -1,0 +1,118 @@
+[
+  {
+    "id": "c1",
+    "username": "Mỵ nương ẩn danh",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-11T15:17:00+07:00",
+    "body": "Đứng đầu tiên. Là phận con vua mà công chúa Tiên Dung dám chọn chàng đánh cá nghèo đến chiếc khố cũng không có. 'Việc này hẳn là trời định, tôi xin nên duyên cùng chàng.' Câu ấy can đảm biết bao. Nàng chọn người chứ không chọn của. Tôi nể nàng.",
+    "likes": 2034
+  },
+  {
+    "id": "c2",
+    "username": "Trai nghèo làng Đoài",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-11T15:50:00+07:00",
+    "body": "Chử Đồng Tử liệm cả chiếc khố duy nhất theo cha, để mình chịu cảnh không mảnh che thân. Hiếu đến thế là cùng. Đọc mà em ứa nước mắt. Tiên Dung nhìn vào tấm lòng hiếu thảo ấy chứ không nhìn cảnh nghèo. Người con gái tinh đời.",
+    "likes": 1834,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Già làng ven sông",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-11T16:30:00+07:00",
+        "body": "Đúng cháu. Người con biết liệm khố cho cha thì làm chồng cũng sẽ biết thương vợ. Nhìn người phải nhìn cái gốc là chữ hiếu, chữ nghĩa. Cái nghèo rồi sẽ qua, cái nết thì ở lại.",
+        "likes": 1102
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Bà mẹ Phong Châu",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-11T16:20:00+07:00",
+    "body": "Tôi là bà mẹ được trích lời. Chuyện này dạy con cháu rằng giàu nghèo là cái bên ngoài, cái nghĩa cái tình mới là cái gốc. Tiên Dung lấy Chử Đồng Tử vì duyên vì nghĩa, mà hai người sống thuận hòa làm nên cơ nghiệp. Đâu phải cứ môn đăng hộ đối mới hạnh phúc.",
+    "likes": 1923
+  },
+  {
+    "id": "c4",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-11T17:00:00+07:00",
+    "body": "Chuyện đẹp đấy, nhưng đời thực mấy ai được như Tiên Dung. Công chúa thì có học, có khí phách, lại dám cãi cả vua cha. Con gái nhà thường dám cãi mẹ một câu là ăn đòn. Đẹp trên giấy thì dễ, làm được mới khó.",
+    "likes": 1289,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Cô gái sắp lấy chồng",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-11T17:40:00+07:00",
+        "body": "Bác nói cũng đúng, nhưng chính vì khó nên chuyện này mới đáng quý, đáng kể lại. Nó nhắc các bậc cha mẹ rằng đừng chỉ nhìn của cải. Em đang thương một chàng nghèo mà tử tế, đọc xong em có thêm chút can đảm.",
+        "likes": 1456
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Lạc dân họ Trần",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-11T17:50:00+07:00",
+    "body": "Hai vợ chồng không nương quyền thế nhà vua, tự gây dựng bằng đôi tay, buôn bán khai khẩn, giúp dân nghèo, dựng nên vùng trù phú. Đó mới là cái đáng nể. Không ỷ lại, tự làm nên cơ nghiệp. Xứng đáng được dân lập đền thờ.",
+    "likes": 1378
+  },
+  {
+    "id": "c6",
+    "username": "Dân chài sông Cái",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-11T18:30:00+07:00",
+    "body": "Chử Đồng Tử dầm mình dưới nước bắt cá, ai đi thuyền qua thì bán cá đổi gạo, đêm vùi mình trong cát. Đời dân chài nghèo chúng tôi cũng vậy. Đọc mà thấy gần gũi. Hóa ra một vị thánh bất tử cũng từng là dân chài như tụi tôi.",
+    "likes": 1234
+  },
+  {
+    "id": "c7",
+    "username": "Lạc hầu coi việc lễ nghi",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-11T19:00:00+07:00",
+    "body": "Bài này nối tiếp đúng cái tôi từng viết về kén rể: trong một thời cha mẹ còn nặng chuyện thách cưới kén gia thế, chuyện công chúa và chàng đánh cá nghèo là lời nhắc dịu dàng. Điều đáng giá nhất ở một con người chẳng đo được bằng của cải.",
+    "likes": 1567
+  },
+  {
+    "id": "c8",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-11T19:40:00+07:00",
+    "body": "Vua cha tức giận không cho nàng về cung, vậy mà về sau hai người hóa về trời thành thánh bất tử. Trời đất công bằng với người sống có nghĩa. Cái giá ban đầu đắt thật, nhưng cái được về sau còn lớn hơn.",
+    "likes": 1023
+  },
+  {
+    "id": "c9",
+    "username": "Cô gái têm trầu",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-11T20:20:00+07:00",
+    "body": "Cuộc gặp bên bãi sông kỳ lạ quá: nàng quây màn tắm trên cát, dưới cát là chàng đang vùi mình trốn, nước dội trôi cát lộ ra chàng trai. Tình huống trớ trêu mà nàng coi là duyên trời. Lãng mạn nhất các chuyện tình Văn Lang mình.",
+    "likes": 1145
+  },
+  {
+    "id": "c10",
+    "username": "Mẹ ba con",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-11T21:00:00+07:00",
+    "body": "Là mẹ, đọc xong tôi tự nhủ phải bớt nặng chuyện gia thế khi gả con. Đứa con gái thứ nhà tôi thương một anh thợ rèn nghèo, tôi cứ chê. Giờ nghĩ lại, biết đâu nó tinh đời như Tiên Dung mà tôi thì mù như vua cha lúc đầu.",
+    "likes": 1289
+  },
+  {
+    "id": "c11",
+    "username": "Thợ rèn làng Rèn",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-11T21:40:00+07:00",
+    "body": "Thay mặt cánh trai nghèo tay nghề: cảm ơn câu chuyện này, cảm ơn cả bác Mẹ ba con ở trên. Tụi tôi nghèo của nhưng không nghèo cái nghĩa. Mong các nhà gái nhìn vào đôi tay biết làm, đừng chỉ nhìn cái kho cái lẫm.",
+    "likes": 1067
+  },
+  {
+    "id": "c12",
+    "username": "Đôi vợ chồng son",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-11T22:30:00+07:00",
+    "body": "Hai vợ chồng em cũng vượt lời ra vào mới đến được với nhau, nhà em nghèo hơn nhà nàng. Đọc chuyện Tiên Dung Chử Đồng Tử mà thấy ấm lòng. Cái duyên cái nghĩa giữ người ta lại với nhau, không phải của cải. Cảm ơn bài viết.",
+    "likes": 945
+  }
+]

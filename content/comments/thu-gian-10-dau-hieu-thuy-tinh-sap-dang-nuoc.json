@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c1",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-09T16:16:00+07:00",
+    "body": "Đứng đầu tiên. Dấu hiệu số 7 đúng là ai cũng gặp thật các bác ơi. Tôi vừa lợp lại mái nhà sàn xong hôm kia, đọc cái này mà rụng rời chân tay. Thôi xong, năm nay chắc lũ to. Cười ra nước mắt.",
+    "likes": 1456
+  },
+  {
+    "id": "c2",
+    "username": "Đinh Văn Lốc",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-09T16:45:00+07:00",
+    "body": "Dấu hiệu số 8 trúng tim đen em luôn. Vại mắm em vừa muối hôm qua, đúng thứ em không muốn mất nhất. Năm kia mất cả đàn gà hai vại mắm rồi, năm nay xin chừa. Đọc xong em đi cột vại mắm lên xà ngay đây.",
+    "likes": 1289,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Nông phụ làng Hạ",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-09T17:20:00+07:00",
+        "body": "Haha anh Lốc cứ vại mắm là xui. Mà cột lên xà đi cho chắc, đừng để mất mẻ thứ ba kẻo cả làng cười.",
+        "likes": 678
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-09T17:30:00+07:00",
+    "body": "Dấu hiệu số 9 cấm có sai. Năm ngoái thằng hàng xóm vừa khen 'năm nay chắc không lũ đâu' là ba hôm sau nước lên tận nóc. Từ đó cấm tiệt ai nói câu đó trong làng. Điềm gở nhất trong các điềm. Bài này tuy đùa mà thật.",
+    "likes": 1623
+  },
+  {
+    "id": "c4",
+    "username": "Chàng rể mới",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-09T18:00:00+07:00",
+    "body": "Dấu hiệu số 6: mẹ vợ gọi sang dặn kê cao đồ đạc. Mẹ vợ chưa bao giờ sai. Đọc xong em cười sặc, mẹ vợ em đúng là cái máy báo lũ chuẩn hơn cả quan coi nước. Cấm cãi mẹ vợ.",
+    "likes": 1178,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Mẹ ba con",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-09T18:40:00+07:00",
+        "body": "Đúng đó con rể. Các mẹ trông trời trông kiến cả đời, linh hơn quan coi nước. Mẹ dặn là cứ làm theo, đừng cãi, lát nước lên lại trách mẹ không nhắc.",
+        "likes": 845
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Già làng làng Thượng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-09T18:50:00+07:00",
+    "body": "Đùa thì đùa, nhưng kiến tha trứng, ếch nhái kêu ran, cá rô nhảy lên bờ là kinh nghiệm thật của cha ông đấy các cháu. Mấy dấu đầu là thật, mấy dấu sau là cười cho vui. Cứ nhìn đàn kiến mà liệu, kiến chạy thì người chạy.",
+    "likes": 1345
+  },
+  {
+    "id": "c6",
+    "username": "Trai làng Đoài",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-09T19:20:00+07:00",
+    "body": "Dấu hiệu số 10: vừa đổi được mảnh ruộng dưới thấp giá hời. Xin chia buồn. Đọc tới đây em chết lặng, em mới đổi mảnh trũng tuần trước. Trời ơi sao bài viết biết hết vậy. Cười mà đau.",
+    "likes": 1067
+  },
+  {
+    "id": "c7",
+    "username": "Ban Thư Giãn",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-09T20:00:00+07:00",
+    "body": "Cảm ơn bà con đã đọc và cười cùng chúng tôi. Nhắc lại như cuối bài: để biết tình hình nước thật sự, xin theo dõi bản tin các quan coi nước, và nhìn đàn kiến. Đùa cho vui chứ mùa lũ thì phải cẩn thận thật nhé bà con.",
+    "likes": 934
+  },
+  {
+    "id": "c8",
+    "username": "Cô gái têm trầu",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-09T21:00:00+07:00",
+    "body": "Em góp dấu hiệu số 11: vừa phơi xong mẻ thóc ngoài sân thì y như rằng mây đen kéo tới. Đặc sản nhà nông luôn. Ban Thư Giãn lần sau cho thêm dấu hiệu này nhé.",
+    "likes": 789
+  },
+  {
+    "id": "c9",
+    "username": "Lạc dân họ Trần",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-09T22:00:00+07:00",
+    "body": "Bài thư giãn mà ngẫm ra toàn kinh nghiệm sống còn ven sông. Vừa cười vừa gật gù. Lưu lại đọc cho cả nhà, mấy đứa nhỏ học được cách xem điềm nước qua chim muông côn trùng. Hay phết.",
+    "likes": 856
+  },
+  {
+    "id": "c10",
+    "username": "Người làng Phù Đổng",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-09T23:00:00+07:00",
+    "body": "Làng tôi ở xa sông nên mấy dấu hiệu này ít gặp, đọc cho vui là chính. Nhưng số 9 thì làng nào cũng đúng: ai khen 'năm nay không lũ' là cả xóm lườm. Cấm nói điềm gở. Cười muốn xỉu.",
+    "likes": 712
+  }
+]

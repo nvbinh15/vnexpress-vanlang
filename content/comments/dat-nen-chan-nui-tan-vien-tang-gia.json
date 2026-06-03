@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c1",
+    "username": "Lạc dân họ Trần",
+    "location": "núi Tản",
+    "timestamp": "0018-07-25T10:16:00+07:00",
+    "body": "Đứng. Năm ngoái mảnh triền cao nhà tôi đáng hai con trâu, năm nay có người trả ba con mộng cộng chục vò muối tôi vẫn chưa gật. Cứ sau mỗi mùa lũ giá lại nhích một bậc. Có đất cao là có của để dành.",
+    "likes": 1456
+  },
+  {
+    "id": "c2",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-25T10:45:00+07:00",
+    "body": "Lại sốt đất ăn theo lũ. Năm nào nước rút là y như rằng giá triền cao nhảy múa. Tôi cảnh báo bà con: có kẻ chẳng có nhu cầu ở, chỉ ôm đất cao chờ mùa lũ sau đổi giá cao hơn. Đó là đầu cơ. Đổi bằng mọi giá có ngày ôm trâu mà khóc.",
+    "likes": 1923,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Già làng làng Thượng",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-25T11:20:00+07:00",
+        "body": "Bác nói đúng cái tôi lo. Đất là để ở, để dựng nhà nuôi con, không phải để ôm chờ thổi giá. Thổi mãi rồi có ngày vỡ, kẻ ôm cuối cùng lãnh đủ. Mua theo nhu cầu ở thực thôi bà con.",
+        "likes": 1234
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Chị Đinh Thị Mây",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-25T11:30:00+07:00",
+    "body": "Tôi là người vừa đổi đất được trích lời. Ruộng thấp còn cấy được, nhưng nhà cửa phải ở chỗ không ngập. Lũ ba năm liền tôi sợ rồi. Bán bớt ruộng thấp dồn đổi một mảnh trên cao cho con cái ngủ yên, tôi không tiếc.",
+    "likes": 1345
+  },
+  {
+    "id": "c4",
+    "username": "Ông Quách Văn Thỏa",
+    "location": "núi Tản",
+    "timestamp": "0018-07-25T12:10:00+07:00",
+    "body": "Người mai mối đất được trích lời đây. Tôi nói thật lòng nghề: mảnh nào lưng chừng đồi, cao ráo, gần nguồn nước sạch là tốt nhất, đổi ngay đừng chần chừ. Nhưng đừng nghe lời đồn thổi mà đổi mảnh quá cao, xa nước, lên xuống làm ruộng cực thân.",
+    "likes": 1102
+  },
+  {
+    "id": "c5",
+    "username": "Nông dân Lạc Việt",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-25T13:00:00+07:00",
+    "body": "Băn khoăn của tôi: lên cao ở thì sướng, nhưng ruộng tôi dưới thấp, ngày ngày lên xuống làm sao? Triều đình hứa bố trí ngủ trên cao làm dưới thấp, mong làm thật chứ đừng hứa suông.",
+    "likes": 987,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Quan coi việc đất đai",
+        "location": "núi Tản",
+        "timestamp": "0018-07-25T13:50:00+07:00",
+        "body": "Thưa bác, triều đình đang quy hoạch các khu cao ráo để dời dân vùng trũng, bảo đảm ai có nhu cầu ở thực đều có đất, không để rơi vào tay người đầu cơ. Mỗi hộ dời lên vẫn giữ phần ruộng dưới thấp, lên xuống theo mùa. Bác yên tâm.",
+        "likes": 1156
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "Thương nhân chợ phiên",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-25T14:20:00+07:00",
+    "body": "Đơn vị đổi chác giờ là trâu, lợn, vò muối, rìu đồng. Tôi gom muối lại đây, mùa này muối đổi đất được giá phết. Ai cần muối để đổi đất thì ới tôi một tiếng ngoài chợ phiên.",
+    "likes": 734
+  },
+  {
+    "id": "c7",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-25T15:00:00+07:00",
+    "body": "Ba mươi năm ven sông tôi chưa từng nghĩ tới chuyện lên cao, cứ lũ thì dọn, rút thì về. Nhưng ba năm liền thế này thì tôi cũng đang tính. Mảnh không bao giờ ngập đúng là của hiếm. Có điều giá đang nóng quá, tôi chờ qua cơn sốt đã.",
+    "likes": 1056
+  },
+  {
+    "id": "c8",
+    "username": "Mẹ ba con",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-25T16:00:00+07:00",
+    "body": "Mua đất cao nhớ chọn chỗ gần nguồn nước sạch, kẻo cao mà thiếu nước thì gánh nước mỗi ngày mệt hơn cả tránh lũ. Kinh nghiệm xương máu của nhà tôi đợt lên gò năm kia.",
+    "likes": 845
+  },
+  {
+    "id": "c9",
+    "username": "Lạc tướng coi vùng Tây",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-25T17:00:00+07:00",
+    "body": "Triều đình đã có chủ trương vừa đắp đê vừa dời dân lên cao. Mong bà con yên tâm chờ quy hoạch, đừng nóng vội chạy theo đám đông mà đổi chác bằng mọi giá. Ai ở thực sẽ có phần, đầu cơ thì không khuyến khích.",
+    "likes": 1198
+  },
+  {
+    "id": "c10",
+    "username": "Một bác tính toán",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-25T18:00:00+07:00",
+    "body": "Tính thử: ba con trâu mộng đổi một mảnh đất cao. Nhưng trâu để cày ruộng kiếm cơm, đổi hết lấy đất rồi lấy gì cày? Đổi đất cũng phải liệu sức, đừng dốc hết vốn liếng vào một mảnh đất chỉ vì sợ lũ.",
+    "likes": 1023
+  }
+]

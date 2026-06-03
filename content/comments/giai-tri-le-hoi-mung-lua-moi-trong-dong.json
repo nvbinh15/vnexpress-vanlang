@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c1",
+    "username": "Người thổi trống đồng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-21T22:16:00+07:00",
+    "body": "Đứng đầu tiên! Tôi là một trong các tay trống đêm qua. Dàn trống lớn nhất nhiều năm thật, khi cả hàng cùng dồn nhịp, âm dội vào vách núi vọng lại, cả bãi hội rung lên. Đánh xong mỏi rã tay mà sướng. Cảm ơn bà con đã reo hò thâu đêm cùng chúng tôi.",
+    "likes": 1834
+  },
+  {
+    "id": "c2",
+    "username": "Khán giả trẻ làng Đoài",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-21T22:45:00+07:00",
+    "body": "Múa chim Lạc năm nay dàn dựng công phu hơn hẳn! Lúc cả đàn chim cùng tung mình bay lên, đôi cánh xòe ra trong ánh lửa, em nổi hết da gà. Cả bãi nín thở rồi vỡ òa. Tiết mục đinh của cả mùa lễ, không ai cãi được.",
+    "likes": 1645,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Vũ công múa chim Lạc",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-21T23:30:00+07:00",
+        "body": "Cảm ơn bạn! Bọn mình tập cả tháng cái đoạn cả đàn cùng tung lên đó. Bộ lông chim nặng, dang cánh lượn quanh lửa mà giữ nhịp trống không hề dễ. Được bà con thương là bõ công tập rồi.",
+        "likes": 1023
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Nông dân Lạc Việt",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-21T23:10:00+07:00",
+    "body": "Cả năm vất vả ngoài đồng, được mùa rồi thì phải vui cho trọn. Mừng lúa mới là mừng công sức của mình, mừng trời thương cho được mùa. Tôi nhảy vòng xòe đến gần sáng, chân rã rời mà lòng nhẹ tênh.",
+    "likes": 1456
+  },
+  {
+    "id": "c4",
+    "username": "Bà cụ nhảy xòe",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-21T23:50:00+07:00",
+    "body": "Tôi là bà cụ được trích lời, bảy mươi tuổi vẫn nối tay vào vòng xòe nhé các cháu. Nghe tiếng trống là chân không đứng yên được. Vòng trong vòng ngoài, già trẻ trai gái, không phân biệt làng nào. Đẹp nhất là cái đoàn kết ấy.",
+    "likes": 1567
+  },
+  {
+    "id": "c5",
+    "username": "Người xem làng xa",
+    "location": "núi Tản",
+    "timestamp": "0018-07-22T00:20:00+07:00",
+    "body": "Tôi là người xem từ làng xa được trích lời: nghe tiếng trống là máu trong người sôi lên. Năm nay trống nhiều, đánh hay, đánh khớp. Đỉnh thật sự. Đi bộ nửa ngày từ chân núi Tản xuống xem mà không phí chút nào.",
+    "likes": 1102
+  },
+  {
+    "id": "c6",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-22T00:50:00+07:00",
+    "body": "Vui thì vui, nhưng nhảy thâu đêm gần sáng, mai ai ra đồng? Hội hè cũng nên có giờ có giấc. Tôi không phản đối vui, chỉ sợ vui quá rồi bỏ bê việc đồng áng. Được mùa là phải lo cất giữ chứ.",
+    "likes": 734,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "Nông dân Lạc Việt",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-22T01:20:00+07:00",
+        "body": "Bác ơi cả năm mới có một đêm hội mừng lúa mới. Vui trọn một đêm rồi mai lại ra đồng, có sao đâu. Trống đồng đánh mừng được mùa, không vui thì phụ lòng trời thương. Bác cũng xuống nhảy một vòng cho khỏe người đi.",
+        "likes": 678
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "Cô gái têm trầu",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-22T01:30:00+07:00",
+    "body": "Mặt trống chạm hình mặt trời, chim Lạc, thuyền và người múa, đẹp đến nín thở. Em đứng ngắm hồi lâu. Trống đồng của tổ tiên mình tinh xảo thật. Mong các làng giữ nghề đúc trống cho con cháu sau này.",
+    "likes": 945
+  },
+  {
+    "id": "c8",
+    "username": "Lạc dân họ Vũ",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-22T06:00:00+07:00",
+    "body": "Ánh lửa tàn dần mà nhiều người vẫn nán lại, miệng còn ngân nga nhịp trống. Tôi là một trong số đó. Về tới nhà tai vẫn còn vang tiếng trống. Đêm hội đáng nhớ nhất mấy mùa qua.",
+    "likes": 1023
+  },
+  {
+    "id": "c9",
+    "username": "Trai làng Thượng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-22T07:00:00+07:00",
+    "body": "Nghe nói phần thi trống đồng và múa giữa các làng còn tiếp tục các đêm tới. Làng Thượng chúng tôi vừa vô địch vật, giờ quyết thi trống cho oách luôn. Cạnh tranh nóng hơn nữa đây các bác!",
+    "likes": 856
+  },
+  {
+    "id": "c10",
+    "username": "Người làng Phù Đổng",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-22T08:00:00+07:00",
+    "body": "Múa chim Lạc làm tôi nhớ chim Lạc trên trống đồng, trên mặt thạp. Con chim thiêng của người Lạc Việt mình. Mỗi lần thấy đàn chim Lạc bay lên trong ánh lửa là thấy cả cội nguồn. Tự hào lắm.",
+    "likes": 989
+  },
+  {
+    "id": "c11",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-22T09:00:00+07:00",
+    "body": "Mới mấy hôm trước còn lo nước lũ, nay đã được mùa nhảy xòe quanh lửa. Đời người Lạc Việt là vậy, lũ rồi lại lúa, lo rồi lại vui. Đêm hội ấm áp này bù lại cả mùa cực nhọc. Cảm ơn ban tổ chức.",
+    "likes": 912
+  }
+]

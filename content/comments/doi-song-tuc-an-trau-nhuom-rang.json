@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c1",
+    "username": "Cô gái têm trầu",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-17T14:17:00+07:00",
+    "body": "Đứng đầu tiên! Em mười sáu đã nhuộm răng rồi đây ạ. Răng trắng nhởn trông như răng thú, ai lại để thế. Răng phải đen như hạt na mới duyên, môi đỏ thắm, hơi thở thơm trầu. Tự tin hẳn lên khi đi chợ phiên.",
+    "likes": 1456
+  },
+  {
+    "id": "c2",
+    "username": "Bà bán trầu chợ phiên",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-17T14:50:00+07:00",
+    "body": "Tôi bán trầu mấy chục năm, đúng là chưa bao giờ thấy bọn trẻ hào hứng lên màu sớm như giờ. Hồi xưa lấy chồng mới nhuộm, giờ mười lăm mười sáu đã đòi. Mừng vì bán đắt hàng, mà cũng ngạc nhiên. Thời nào mốt nấy.",
+    "likes": 1234,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Trai làng họ Đinh",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-17T15:30:00+07:00",
+        "body": "Bà ơi cho con hỏi nhuộm răng cho con trai có kỳ không ạ. Con thấy mấy anh trai làng cũng nhuộm, mà mẹ con bảo con trai nhuộm làm gì. Bối rối quá.",
+        "likes": 678
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Cô gái có tay nghề nhuộm",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-17T15:20:00+07:00",
+    "body": "Em là người được trích lời mách bí kíp đây. Chia sẻ thật lòng: nhuộm phải kiên trì nhiều ngày, ăn uống kiêng khem, nóng vội là răng lốm đốm xấu lắm. Nhuộm buổi tối, nhai chát cho màu bám, kiêng đồ nóng vài hôm đầu. Đừng nóng vội nha mọi người.",
+    "likes": 1345
+  },
+  {
+    "id": "c4",
+    "username": "Bác nông dân răng đen",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-17T16:00:00+07:00",
+    "body": "Tôi là bác nông dân được trích lời. Nhai miếng trầu vào là tỉnh cả người, miệng thơm, răng chắc hơn. Ra đồng nhai trầu cho ấm bụng đỡ đói. Trào lưu hay không tôi chẳng biết, tôi ăn trầu cả đời rồi, răng vẫn chắc.",
+    "likes": 1102
+  },
+  {
+    "id": "c5",
+    "username": "Mẹ ba con",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-17T16:40:00+07:00",
+    "body": "Con gái lớn nhà tôi đòi nhuộm răng theo bạn, tôi đồng ý nhưng dặn: nhuộm vì thấy đẹp thật thì nhuộm, đừng nhuộm chỉ vì thấy ai cũng nhuộm. Làm đẹp gì cũng phải hợp với mình. Mà con bé nhuộm xong duyên ra phết.",
+    "likes": 945
+  },
+  {
+    "id": "c6",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-17T17:10:00+07:00",
+    "body": "Tôi nói thẳng: nhiều đứa nhuộm chỉ vì thấy ai cũng nhuộm, chứ hỏi vì sao đẹp thì ú ớ. Quá trình thì vừa lâu vừa ê răng. Đẹp là tốt, nhưng chạy theo trào lưu mù quáng thì tôi không ưa. Đẹp phải biết mình đẹp vì cái gì.",
+    "likes": 856,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "Cô gái têm trầu",
+        "location": "Chợ phiên Kẻ Chủ",
+        "timestamp": "0018-07-17T17:50:00+07:00",
+        "body": "Bác nói cũng đúng phần nào ạ. Nhưng làm đẹp theo cái chung của làng cũng là một niềm vui mà bác. Vừa đẹp vừa khỏe răng vừa thơm miệng, lại còn dễ bắt chuyện. Cháu thấy không có gì xấu cả.",
+        "likes": 723
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "Trai làng Đoài",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-17T18:20:00+07:00",
+    "body": "Biết têm một miếng trầu cánh phượng đẹp mắt là ghi điểm trong mắt nhà người thương. Em đang tập têm cho khéo đây. Mời được miếng trầu đẹp là nửa đường tới nhà gái rồi các bác ạ.",
+    "likes": 989
+  },
+  {
+    "id": "c8",
+    "username": "Già làng ven sông",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-17T19:00:00+07:00",
+    "body": "Mời nhau miếng trầu là mở đầu mọi câu chuyện. Khách đến nhà không có miếng trầu thì coi như thất lễ. Trào lưu của lớp trẻ tốt ở chỗ giữ được cái tục đẹp này. Chỉ mong các cháu hiểu cái nghĩa của miếng trầu, không chỉ nhuộm cho đẹp.",
+    "likes": 1167
+  },
+  {
+    "id": "c9",
+    "username": "Mỵ nương ẩn danh",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-17T20:00:00+07:00",
+    "body": "Lớp men đen người ta tin là bảo vệ răng khỏi sâu mọt. Em nhuộm hai năm nay răng chưa hề ê buốt. Vừa làm đẹp vừa giữ răng, lại thơm miệng, sao mà không theo. Đen mới là đẹp, các bà các mẹ nói đúng.",
+    "likes": 834
+  },
+  {
+    "id": "c10",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-17T21:00:00+07:00",
+    "body": "Mùa lũ ngồi trên gò buồn, têm miếng trầu nhai cho ấm người đỡ buồn. Răng đen môi đỏ của vợ tôi vẫn duyên nhất xóm. Mốt của lớp trẻ rồi cũng quay về cái nếp của các cụ thôi. Trầu cau là hồn quê mình mà.",
+    "likes": 756
+  }
+]

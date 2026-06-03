@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c1",
+    "username": "Trai làng Thượng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-16T18:16:00+07:00",
+    "body": "Đứng đầu tiên cho làng Thượng vô địch sới vật! Đô Hổ bốc đối thủ lên khỏi mặt đất rồi đặt ngã ngửa, đẹp mắt khỏi bàn. Cả làng công kênh đô Hổ đi quanh sân, trống đồng dồn dập. Sướng cả người!",
+    "likes": 1645
+  },
+  {
+    "id": "c2",
+    "username": "Trai làng Hạ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-16T18:45:00+07:00",
+    "body": "Sới vật thua nhưng đua thuyền làng Hạ về nhất nhé các bác! Gỡ gạc danh dự ngay trong ngày. Đô Trâu thua keo này, sang năm đòi lại. Còn đội thuyền chúng tôi thì khỏi bàn, sông Đà là của làng Hạ!",
+    "likes": 1834,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Trai làng Thượng",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-16T19:20:00+07:00",
+        "body": "Được, thuyền các ông nhất thì nhận. Nhưng cái cúp vật vẫn ở làng tôi nhé. Mỗi làng một nửa danh dự, huề. Sang năm gặp lại cả hai sới!",
+        "likes": 845
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Đô vật Lạc Văn Trâu",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-16T19:30:00+07:00",
+    "body": "Tôi là đô Trâu làng Hạ đây. Thua keo này tâm phục khẩu phục, đô Hổ khỏe thật. Nhưng sang năm tôi đòi lại, hẹn đó. Cảm ơn bà con đã cổ vũ, vật thua mà vui vì cả sới đình náo nhiệt hết cỡ.",
+    "likes": 1456
+  },
+  {
+    "id": "c4",
+    "username": "Già làng làng Trung",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-16T20:00:00+07:00",
+    "body": "Tôi là trưởng đội thuyền làng Trung được trích lời. Đua thuyền với chúng tôi không chỉ là vui, đó là danh dự của làng. Làng nào thắng thì cả năm ngẩng cao đầu, thua thì cả năm bị làng bên nói khích. Năm nay chúng tôi quyết vào chung kết.",
+    "likes": 1234
+  },
+  {
+    "id": "c5",
+    "username": "Nông dân Lạc Việt",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-16T20:40:00+07:00",
+    "body": "Nước vừa rút là mở hội ngay, đúng nếp cha ông. Vật với đua thuyền vừa vui vừa rèn sức vóc dẻo dai, rất cần cho việc giữ làng giữ nước. Cả năm cày cấy vất vả, được mùa hội thì phải chơi cho đã.",
+    "likes": 1102
+  },
+  {
+    "id": "c6",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-16T21:10:00+07:00",
+    "body": "Hội thì vui, nhưng năm nào hai làng Thượng - Hạ vật xong cũng cãi nhau ầm ĩ, có năm còn ẩu đả. Mối thù truyền kiếp trên sới vật nghe oai chứ tôi thấy mệt. Vui thôi đừng vui quá, kẻo tan hội rồi giận nhau cả năm.",
+    "likes": 967,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "Già làng làng Trung",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-16T21:50:00+07:00",
+        "body": "Bác lo cũng phải. Nhưng năm nay tôi thấy hai bên thua thắng đều cười, đô Trâu thua còn bắt tay đô Hổ. Thù truyền kiếp trên sới chứ ra ngoài vẫn là bà con cả. Vui là chính bác ạ.",
+        "likes": 734
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "Cô gái têm trầu",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-16T22:00:00+07:00",
+    "body": "Đứng bờ sông xem đua thuyền mà tim đập thình thịch. Các tay chèo gồng mình, trống thúc liên hồi, hai bên bờ hò reo đập tay xuống nước. Tay chèo về nhất nhảy xuống nước ăn mừng, đẹp trai dã man. Hội năm nay đỉnh thật!",
+    "likes": 1023
+  },
+  {
+    "id": "c8",
+    "username": "Người thổi trống đồng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-16T22:40:00+07:00",
+    "body": "Tôi thổi à không, đánh trống đồng ở sới vật. Mỗi keo vật căng là tôi dồn nhịp trống cho máu bà con sôi lên. Nghề đánh trống hội cực mà sướng, cả sân rung theo nhịp tay mình. Mời bà con đêm hội mừng lúa mới tới xem dàn trống lớn hơn nữa nhé.",
+    "likes": 889
+  },
+  {
+    "id": "c9",
+    "username": "Lạc dân họ Vũ",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-16T23:20:00+07:00",
+    "body": "Đốt đuốc ăn mừng dù trời chưa tối, khua trống vang cả mặt sông. Cái khí thế ấy mới là hồn của hội làng. Con cháu sau này phải giữ, đừng để mai một. Vật, đua thuyền, trống đồng là cốt cách người Lạc Việt mình.",
+    "likes": 945
+  },
+  {
+    "id": "c10",
+    "username": "Mẹ thằng Cò",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-17T06:00:00+07:00",
+    "body": "Thằng Cò nhà tôi xem đô Hổ vật về cứ đòi tập vật, sáng nay ra sân vật với con trâu. Buồn cười muốn chết. Hội làng nuôi chí khí cho lũ trẻ thật, nhưng con ơi vật với người chứ ai vật với trâu.",
+    "likes": 1167
+  },
+  {
+    "id": "c11",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-17T07:30:00+07:00",
+    "body": "Hết mùa lũ căng thẳng lại tới mùa hội tưng bừng, đời sống ven sông là vậy, buồn vui nối nhau. Mong vòng loại đua thuyền sắp tới làng Hạ giữ vững phong độ. Chờ ngày chung kết hai bờ chật kín người.",
+    "likes": 856
+  }
+]

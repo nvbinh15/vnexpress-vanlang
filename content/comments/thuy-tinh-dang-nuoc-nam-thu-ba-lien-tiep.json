@@ -1,0 +1,178 @@
+[
+  {
+    "id": "c1",
+    "username": "Dân chài sông Cái",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-12T07:46:00+07:00",
+    "body": "Đứng. Đứng đầu tiên trên bến Bạch Hạc luôn các bác. Sáng nay nước liếm tới bậc ba, tôi vừa buộc xong mái thuyền là chạy vào hóng tin. Năm thứ ba rồi, quen tay quen chân, nhưng đọc bài vẫn nóng ruột.",
+    "likes": 1842
+  },
+  {
+    "id": "c2",
+    "username": "Lạc dân họ Trần",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-12T08:12:00+07:00",
+    "body": "Chia sẻ tí kinh nghiệm cho nhà nào còn ở vùng trũng: dời bàn thờ trước, dời gạo sau, dời gà sau cùng vì gà tự chạy lên cao được. Vại mắm thì lấy lá chuối bịt miệng buộc chặt rồi cột lên xà, đừng để nổi lềnh bềnh là hỏng cả mẻ.",
+    "likes": 2913,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Nông phụ làng Hạ",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-12T08:40:00+07:00",
+        "body": "Bác nói chuẩn. Năm kia nhà em chủ quan để vại mắm dưới sàn, nước lên cuốn đi mất, cả mùa ăn cơm nhạt. Năm nay nghe lời các bác, cột hết lên xà rồi.",
+        "likes": 884
+      },
+      {
+        "id": "c2-r2",
+        "username": "Trai làng họ Đinh",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-12T09:05:00+07:00",
+        "body": "Cho hỏi gà thả lên gò có cần nhốt không bác, hay cứ để tự nhiên? Sợ nó lội xuống ruộng lại trôi.",
+        "likes": 312
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Già làng làng Thượng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-12T08:55:00+07:00",
+    "body": "Tôi sống hơn bảy chục mùa nước rồi. Cứ ngài Sơn Tinh lên núi điều binh là dân khỏi lo, núi cao đến đâu thì nước chỉ đến lưng chừng là đuối. Nhưng đừng vì thế mà ỷ lại. Kiến đã tha trứng lên cây gạo từ ba hôm trước, nhà nào chưa dọn thì dọn gấp đi.",
+    "likes": 3621
+  },
+  {
+    "id": "c4",
+    "username": "Mẹ thằng Cò",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-12T09:30:00+07:00",
+    "body": "Chồng tôi đi đắp đê từ canh năm chưa về, lo quá các bác ơi. Nhà còn ba đứa nhỏ với một bà già. Đã lùa trâu lên gò, gác thóc lên sàn rồi mà tim vẫn đập thình thịch. Mong các quan coi nước cập nhật thường xuyên cho dân đỡ lo.",
+    "likes": 1467,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Lạc tướng coi vùng hợp lưu",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-12T10:15:00+07:00",
+        "body": "Chị yên tâm, đội đắp đê khúc Bạch Hạc đến cuối giờ Tỵ vẫn an toàn, không thiếu ai. Chúng tôi đã cho thuyền tuần dọc sông. Nhà nào ở thấp cần chuyển người già trẻ nhỏ thì ra ba điểm cao có phát lương khô.",
+        "likes": 2208
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-12T10:02:00+07:00",
+    "body": "Năm nào cũng nghe 'núi thắng nước, không có gì phải bàn'. Thắng thì thắng thật, nhưng ruộng lúa trũng của tôi thì năm nào cũng thua. Núi cao lên thì sướng phần núi, còn dân thấp vẫn cứ dọn nhà mỗi mùa. Thắng kiểu này tôi xin chịu.",
+    "likes": 2756
+  },
+  {
+    "id": "c6",
+    "username": "Người làng Phù Đổng",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-12T10:48:00+07:00",
+    "body": "Làng tôi ở xa sông nên đỡ, nhưng đọc mà thương bà con vùng hợp lưu. Có cần người sang gánh đỡ thóc lên gò không? Mấy trai làng tôi rảnh, lội nước quen.",
+    "likes": 943
+  },
+  {
+    "id": "c7",
+    "username": "Lái buôn chợ Kẻ Chủ",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-12T11:20:00+07:00",
+    "body": "Phiên chợ mai chắc vắng. Thuyền hàng của tôi mắc kẹt ở bến, không ngược dòng nổi. Bác nào ở Bạch Hạc cho hỏi nước có dấu hiệu chững chưa, để tôi liệu đường quay đầu hay neo lại chờ.",
+    "likes": 561
+  },
+  {
+    "id": "c8",
+    "username": "Mỵ nương ẩn danh",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-12T11:55:00+07:00",
+    "body": "Đọc đoạn bà cụ kể 'ngài Thủy Tinh thua kén rể, ấm ức nên năm nào cũng lên đòi' mà thấy nao nao. Một mối tình hỏng mà cả đồng bằng gánh hậu quả bao đời. Mong sao bên thua cuộc nào rồi cũng nguôi được, đừng để nước mắt thành nước lũ.",
+    "likes": 1689
+  },
+  {
+    "id": "c9",
+    "username": "Đinh Văn Lốc",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-12T12:30:00+07:00",
+    "body": "Em chính là anh Lốc được nhắc trong bài đây ạ. Năm nay em dọn sớm thật, nghe ếch kêu ran với kiến tha trứng là em dọn liền, không mất con gà nào. Cảm ơn nhà báo đã ghi đúng lời em.",
+    "likes": 2034,
+    "replies": [
+      {
+        "id": "c9-r1",
+        "username": "Dân chài sông Cái",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-12T13:10:00+07:00",
+        "body": "Anh Lốc lên báo rồi nha, oách quá. Hai vại mắm năm kia coi như học phí, năm nay anh khôn ra hẳn haha.",
+        "likes": 478
+      }
+    ]
+  },
+  {
+    "id": "c10",
+    "username": "Bà Cao Thị Mẩy",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-12T13:25:00+07:00",
+    "body": "Bà già làng Hạ đây. Nhà báo ghi đúng lời tôi rồi. Hồi con gái năm nào ngài cũng lên, giờ tóc bạc ngài vẫn lên. Riết thành nếp thật. Con cháu cứ dọn cho gọn, nước rút thì dọn bùn, đời người ven sông là thế.",
+    "likes": 1521
+  },
+  {
+    "id": "c11",
+    "username": "Voi nhà coi việc đắp núi",
+    "location": "núi Tản",
+    "timestamp": "0018-07-12T14:00:00+07:00",
+    "body": "Bọn voi chúng tôi tải đá từ canh năm, mỏi cả vòi. Ba con đường nước ngài hay đánh úp đều chặn xong rồi nhé bà con. Cứ yên tâm lùa trâu lên triền, phần chặn nước để chúng tôi lo.",
+    "likes": 1297
+  },
+  {
+    "id": "c12",
+    "username": "Quan coi nước bộ Thủy",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-12T14:38:00+07:00",
+    "body": "Cập nhật giữa giờ Mùi: mực nước tại Bạch Hạc đã chững, chưa rút nhưng không dâng thêm. Chúng tôi phấn đấu báo lại sau mỗi canh. Bà con vùng thấp tiếp tục giữ người già trẻ nhỏ trên cao, chưa được chủ quan.",
+    "likes": 2611
+  },
+  {
+    "id": "c13",
+    "username": "Trai làng họ Đinh",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-12T15:10:00+07:00",
+    "body": "Cho hỏi nhà nào có cách giữ trâu khỏi sợ nước không ạ. Con trâu mộng nhà em cứ nghe tiếng nước réo là lồng lên, dắt lên gò mà nó giật đứt cả thừng. Đội ơn bác nào chỉ mẹo.",
+    "likes": 402,
+    "replies": [
+      {
+        "id": "c13-r1",
+        "username": "Già làng làng Thượng",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-12T16:00:00+07:00",
+        "body": "Lấy lá chuối khô bịt nhẹ hai bên mắt nó cho đỡ thấy nước, dắt con cái đi trước con đực đi sau, nó theo đàn là yên. Mẹo của cha ông để lại đấy cháu.",
+        "likes": 671
+      }
+    ]
+  },
+  {
+    "id": "c14",
+    "username": "Thương nhân ven biển",
+    "location": "cửa sông",
+    "timestamp": "0018-07-12T16:45:00+07:00",
+    "body": "Ở cửa sông chúng tôi nước cũng đang lên, đục ngầu phù sa từ thượng nguồn đổ về. Phù sa nhiều thì sang vụ ruộng tốt, cũng là cái được trong cái mất. Trời lấy đi cái này thì cho lại cái kia.",
+    "likes": 836
+  },
+  {
+    "id": "c15",
+    "username": "Cháu bà bán trầu",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-12T17:30:00+07:00",
+    "body": "Mong nước rút sớm để còn kịp mùa cưới, chứ hàng trầu cau nhà em đang đợi giao mà thuyền không qua được. Năm nào lũ cũng đúng đợt cưới hỏi mới khổ.",
+    "likes": 389
+  },
+  {
+    "id": "c16",
+    "username": "Lạc dân họ Vũ",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-13T06:20:00+07:00",
+    "body": "Sáng nay ra xem, nước bắt đầu xuống được nửa bậc rồi bà con ơi. Đúng như các cụ nói, ngài Thủy Tinh dâng đến lưng chừng núi là đuối. Cảm ơn bộ Thủy, cảm ơn ngài Sơn Tinh, cảm ơn cả đàn voi tải đá.",
+    "likes": 1958
+  }
+]

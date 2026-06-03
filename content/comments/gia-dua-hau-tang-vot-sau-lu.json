@@ -1,0 +1,36 @@
+[
+  {
+    "id": "c1",
+    "username": "Người mê dưa",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-24T11:25:00+07:00",
+    "body": "Mùa nước nóng nực mà có miếng dưa hấu mát ruột thì nhất. Tiếc là năm nay đắt quá, một quả tròn đẹp giá cao hơn ngày thường gần một nửa. Ngập hết ruộng dưa vùng thấp rồi còn đâu.",
+    "likes": 412
+  },
+  {
+    "id": "c2",
+    "username": "Lái buôn đường sông",
+    "location": "bến Phong Châu",
+    "timestamp": "0018-07-24T12:40:00+07:00",
+    "body": "Dưa thả trôi theo sóng từ vùng đảo về vẫn ngon, vỏ khắc dấu là biết hàng thật. Để lâu không hỏng nên mùa nước này hút khách. Ai cần mối thì nhắn tôi, hàng về phiên sau.",
+    "likes": 287,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Bà nội trợ ven sông",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-24T13:30:00+07:00",
+        "body": "Bác để phần tôi hai quả tròn ruột đỏ nhé, đặt trước cho chắc kẻo ra phiên lại cháy hàng như mọi năm.",
+        "likes": 156
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Nhà nông vùng thấp",
+    "location": "đồng ven sông",
+    "timestamp": "0018-07-24T15:10:00+07:00",
+    "body": "Ruộng dưa nhà tôi ngập trắng, gieo lại còn lâu mới có quả. Giá cao thì người trồng được vùng cao mừng, chứ chúng tôi mất mùa thì chỉ biết chờ nước rút hẳn.",
+    "likes": 203
+  }
+]

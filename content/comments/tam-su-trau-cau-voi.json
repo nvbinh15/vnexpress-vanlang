@@ -1,0 +1,126 @@
+[
+  {
+    "id": "c1",
+    "username": "Mỵ nương ẩn danh",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-18T20:17:00+07:00",
+    "body": "Đọc xong tôi ngồi lặng cả buổi. Ba con người thương nhau đến thế mà chỉ vì một phút không chịu mở lời, hóa đá, hóa cây, hóa dây. Tôi vừa nhai miếng trầu vừa khóc. Cái vị cay nồng thắm đỏ ấy giờ tôi hiểu rồi.",
+    "likes": 2841
+  },
+  {
+    "id": "c2",
+    "username": "Người anh nhà có hai con trai",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-18T20:45:00+07:00",
+    "body": "Tôi cũng có thằng em giống tôi như đúc, hồi nhỏ làng gọi nhầm tên suốt. Đọc bài này tôi nhắn nó ngay: tối mai về ăn cơm, anh em lâu rồi không ngồi với nhau. Đừng để hóa đá rồi mới biết thương, câu đó tôi nhớ đời.",
+    "likes": 3127,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Người em ở xa",
+        "location": "núi Tản",
+        "timestamp": "0018-07-18T21:30:00+07:00",
+        "body": "Em là thằng em đây anh. Em đọc được rồi. Tối mai em về. Lâu rồi anh em mình giận nhau vì chuyện chia mảnh ruộng, giờ nghĩ lại có đáng gì đâu. Em mua sẵn buồng cau.",
+        "likes": 2956
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Già làng làng Thượng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-18T21:10:00+07:00",
+    "body": "Sự tích trầu cau này tôi nghe từ thời để chỏm, nhưng đọc bản kể theo lời hòn đá thì lần đầu. Hay ở chỗ kẻ đáng trách nhất lại tự nhận mình đáng trách. Vua Hùng têm ba thứ chát, the, nồng mà thành thắm đỏ, ấy là cái đạo của người Lạc Việt mình: riêng ra chẳng là gì, quyện vào nhau mới thành tình thành nghĩa.",
+    "likes": 2403
+  },
+  {
+    "id": "c4",
+    "username": "Người vợ trẻ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-18T21:50:00+07:00",
+    "body": "Đoạn nàng tưởng nhầm em chồng là chồng trong ánh chiều nhập nhoạng, chẳng có gì xảy ra cả, vậy mà tan nát ba con người. Bài học cho cánh đàn ông: nghi thì hỏi, đừng im lặng gặm nhấm. Im lặng giết người còn hơn lời nặng.",
+    "likes": 2218
+  },
+  {
+    "id": "c5",
+    "username": "Người trồng cau",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-18T22:20:00+07:00",
+    "body": "Nhà tôi ba đời trồng cau trồng trầu. Giờ mới hiểu vì sao trầu phải có cau, cau phải có chút vôi mới đỏ. Thiếu một thứ là nhạt, là không ra màu. Như nhà thiếu một người thì cũng vậy. Cảm ơn người đã kể.",
+    "likes": 1689
+  },
+  {
+    "id": "c6",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-18T22:55:00+07:00",
+    "body": "Tôi vốn không tin chuyện hòn đá biết kể chuyện trong mơ đâu. Nhưng cái lý 'đừng im lặng, hãy nói khi còn kịp' thì đúng. Hồi vợ tôi còn sống tôi cứ ậm ừ không nói, giờ muốn nói cũng chẳng còn ai nghe. Thôi tôi tin vậy.",
+    "likes": 2674,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "Mỵ nương ẩn danh",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-18T23:40:00+07:00",
+        "body": "Đọc câu của bác mà em rớt nước mắt. Bác têm một miếng trầu, ra mộ bà nói chuyện với bà đi bác. Có những lời nói muộn vẫn hơn không nói. Mong bác bình an.",
+        "likes": 1842
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "Cô dâu mới",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-18T23:15:00+07:00",
+    "body": "Đám cưới em tuần trước, mâm trầu cau đỏ thắm. Giờ đọc xong em mới biết miếng trầu mình mời khách có cả ba con người trong đó. Em sẽ giữ gốc cau dây trầu trước hè cả đời.",
+    "likes": 1456
+  },
+  {
+    "id": "c8",
+    "username": "Người đi rừng",
+    "location": "núi Tản",
+    "timestamp": "0018-07-19T05:30:00+07:00",
+    "body": "Tôi chính là người nhặt được hòn đá. Sáng dậy tôi trồng ngay gốc cau dây trầu bên hè, như bài viết kể. Giờ nó ra lá rồi. Mỗi sáng nhìn dây trầu quấn thân cau tôi lại nhắc mình: cái gì cũng nói được, miễn là chịu nói khi còn kịp.",
+    "likes": 2587
+  },
+  {
+    "id": "c9",
+    "username": "Nông phụ làng Hạ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-19T07:00:00+07:00",
+    "body": "Chồng em với em hôm qua giận nhau, định cả tuần không nhìn mặt. Sáng nay em đọc bài này xong têm miếng trầu đưa anh ấy. Anh ấy nhai xong cười. Thế là hết giận. Miếng trầu là đầu câu chuyện thật mà.",
+    "likes": 1934
+  },
+  {
+    "id": "c10",
+    "username": "Lạc dân họ Trần",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-19T08:30:00+07:00",
+    "body": "Người em ngay thẳng vươn cao thành cau, người vợ thủy chung quấn quýt thành trầu, người anh ân hận hóa đá nằm dưới gốc để đời đời ở gần hai người mình phụ. Văn gì mà thương thế. Lưu lại đọc cho con cháu.",
+    "likes": 1278
+  },
+  {
+    "id": "c11",
+    "username": "Già làng ven sông",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-19T10:00:00+07:00",
+    "body": "Tục mời trầu, têm trầu cánh phượng của ta gốc gác ở đây cả. Mong lớp trẻ giờ đừng bỏ. Mất miếng trầu là mất cả một câu chuyện tình nghĩa của tổ tiên.",
+    "likes": 1567
+  },
+  {
+    "id": "c12",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-19T12:30:00+07:00",
+    "body": "Mùa nước này ngồi trên gò cao chẳng có việc gì, đọc bài này xong cứ ngẩn ngơ. Dưới kia nước trắng đồng, trên này có gốc cau dây trầu. Đời người ngắn lắm, đừng để hóa đá rồi mới biết thương nhau. Thấm.",
+    "likes": 1389
+  },
+  {
+    "id": "c13",
+    "username": "Đôi vợ chồng son",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-19T15:00:00+07:00",
+    "body": "Hai vợ chồng em vừa cưới, đọc chung một bài, vừa đọc vừa khóc. Hứa với nhau cả đời có gì cũng nói ra, không giấu, không nghi rồi im lặng. Cảm ơn người kể chuyện.",
+    "likes": 1102
+  }
+]

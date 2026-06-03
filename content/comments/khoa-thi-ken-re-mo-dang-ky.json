@@ -1,0 +1,76 @@
+[
+  {
+    "id": "c1",
+    "username": "Trai làng họ Đinh",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-20T09:17:00+07:00",
+    "body": "Đứng đầu tiên mà tay run. Voi chín ngà, gà chín cựa, ngựa chín hồng mao thì biết tìm đâu ra trời ơi. Em đọc bảng yết thị xong đứng hình giữa cổng thành. Hồ sơ kiểu này dành cho thần chứ trai tráng thường tụi em chịu chết.",
+    "likes": 1234
+  },
+  {
+    "id": "c2",
+    "username": "Lạc tướng coi vùng núi",
+    "location": "núi Tản",
+    "timestamp": "0018-07-20T09:50:00+07:00",
+    "body": "Voi chín ngà, gà chín cựa thì vùng rừng núi chúng tôi may ra săn được. Nhưng tôi báo trước: hàng cực hiếm, săn cả mùa chưa chắc đủ. Ai có ý dự thi thì chuẩn bị từ sớm, đừng để nước đến chân mới nhảy như quan coi việc dặn.",
+    "likes": 945,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Trai làng họ Đinh",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-20T10:30:00+07:00",
+        "body": "Thưa ngài, vậy là rõ rồi, lễ vật này không dành cho dân thường. Em xin rút lui sớm cho đỡ tốn công. Chúc các nhà có điều kiện may mắn. Em về cày ruộng cho lành.",
+        "likes": 678
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Mỵ nương ẩn danh",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-20T10:40:00+07:00",
+    "body": "Quy định 'ai đến trước được xét trước' này tôi thấy lo hơn là mừng. Nó biến cuộc kén rể thành cuộc chạy đua tốc độ. Người chuẩn bị kỹ mà ở xa, đường lũ lụt tới muộn thì sao? Năm xưa cũng vì cái 'đến trước' này mà sinh ra cả một mùa lũ đời đời đấy.",
+    "likes": 1456
+  },
+  {
+    "id": "c4",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-20T11:20:00+07:00",
+    "body": "Lại cái trò 'đến trước được trước'. Giải thích là 'bảo đảm công bằng minh bạch' nghe hay lắm. Nhưng ai ở gần, ai có sẵn voi sẵn ngựa thì đến trước, dân xa nghèo thì muôn đời sau. Công bằng kiểu gì kỳ vậy.",
+    "likes": 1102
+  },
+  {
+    "id": "c5",
+    "username": "Quan coi việc tuyển",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-20T12:00:00+07:00",
+    "body": "Thưa bà con, mọi lễ vật sẽ được kiểm tra kỹ về số ngà, số cựa, số sợi hồng mao trước khi xét hồ sơ. Ai chuẩn bị kỹ và khẩn trương thì được ưu tiên. Đây là quy định cho cuộc kén rể đặc biệt, không phải lệ chung của dân, mong bà con hiểu cho.",
+    "likes": 834
+  },
+  {
+    "id": "c6",
+    "username": "Lạc hầu coi việc lễ nghi",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-20T13:00:00+07:00",
+    "body": "Tôi đã viết hẳn một bài góc nhìn về chuyện này. Xin nhắc lại: đây là phép thử bất đắc dĩ giữa hai vị thần ngang tài, dân ta đừng đem ra làm tục thách cưới đại trà. Lễ vật đo được của cải, không đo được nết người.",
+    "likes": 1289
+  },
+  {
+    "id": "c7",
+    "username": "Bà mẹ làng Trung",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-20T14:00:00+07:00",
+    "body": "Con gái nhà ai mà được kén kiểu này thì cao quý thật, nhưng cũng tội. Hai chàng đều tài, chỉ vì lễ vật và chuyện đến trước đến sau mà phân thắng bại, bên thua ôm hận. Mong cuộc kén rể này có hậu hơn lần trước.",
+    "likes": 1023
+  },
+  {
+    "id": "c8",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-20T15:00:00+07:00",
+    "body": "Dân ven sông chúng tôi nghe 'kén rể, đến trước được trước' là rùng mình. Năm xưa bên thua cuộc ấm ức dâng nước, năm nào cũng lên đòi, dân tôi gánh đủ. Lần này lạy trời bên thua nguôi sớm, đừng để thêm một mùa lũ nữa.",
+    "likes": 1167
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "c1",
+    "username": "Lạc dân họ Trần",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-13T09:17:00+07:00",
+    "body": "Đứng đầu tiên cho đất tổ! Là dân Phong Châu chính gốc, tôi xác nhận cẩm nang này chuẩn. Bến Bạch Hạc ba sông gặp nhau đẹp nhất lúc tinh mơ, thuyền bè tấp nập. Ai về đất tổ nhớ lên núi Nghĩa Lĩnh viếng tổ tiên, đứng trên cao nhìn xuống là thấy cả hồn nước.",
+    "likes": 1234
+  },
+  {
+    "id": "c2",
+    "username": "Thương nhân chợ phiên",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-13T09:50:00+07:00",
+    "body": "Bổ sung cho khách phương xa: chợ phiên Phong Châu đông nhất là phiên đầu tuần trăng. Hàng trầu cau xem têm cánh phượng khéo lắm, đừng bỏ lỡ. Mà mùa này nước lớn, đi thuyền nhớ hỏi kỹ con nước, đừng ham ngắm cảnh mà chủ quan.",
+    "likes": 945,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Dân chài sông Cái",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-13T10:30:00+07:00",
+        "body": "Đúng bác. Khách phương xa cứ tưởng nước hiền, ra giữa dòng mới biết. Muốn ngắm hợp lưu thì thuê thuyền của dân chài quen nước như tụi tôi, an toàn hơn. Mùa này tôi không chở khách ra xa đâu, nguy hiểm.",
+        "likes": 612
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Cô gái têm trầu",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-13T10:40:00+07:00",
+    "body": "Khách tới chợ phiên nhớ ghé hàng nhà em xem têm trầu cánh phượng nhé. Nếm thử một miếng cho biết, dù lần đầu hơi the. Quà mang về thì mua bánh chưng bánh giầy gói sẵn với dưa hấu đỏ, để được lâu lại ý nghĩa.",
+    "likes": 823
+  },
+  {
+    "id": "c4",
+    "username": "Người đi rừng",
+    "location": "núi Tản",
+    "timestamp": "0018-07-13T11:20:00+07:00",
+    "body": "Ngày thứ hai đi chân núi Tản Viên là chuẩn bài. Cơm lam, cá sông nướng, rau rừng ngon nhức nách. Tráng miệng dưa hấu gắn tích Mai An Tiêm. Tôi dẫn đường cho khách lên núi, ai cần thì ới, đường thoai thoải dễ đi.",
+    "likes": 734
+  },
+  {
+    "id": "c5",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-13T12:00:00+07:00",
+    "body": "Cẩm nang đẹp đấy, nhưng ai lại đi du lịch giữa mùa Thủy Tinh dâng nước? Nước đang lớn, đường sông nguy hiểm, hội hè cũng tùy may rủi mới gặp. Muốn đi chơi Phong Châu thì chờ qua tháng bảy, nước rút, lúc đó hẵng đi.",
+    "likes": 856,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Lạc dân họ Trần",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-13T12:40:00+07:00",
+        "body": "Bác nói đúng nửa. Mùa nước thì tránh đường sông thật, nhưng lên núi Nghĩa Lĩnh, đi chợ phiên, xem làng nghề thì vẫn ngon. Mà mùa này lên chân Tản Viên còn được tận mắt thấy dân đổ xô lên cao tránh lũ, cũng là cái lạ để xem.",
+        "likes": 589
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "Thợ rèn làng Rèn",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-13T13:20:00+07:00",
+    "body": "Mục ghé thăm làng nghề tôi tâm đắc. Khách tới làng rèn chúng tôi xem rèn rìu đồng, lưỡi cày là mê liền. Người Văn Lang làm ra của cải bằng đôi tay khéo léo, xem một lần là nhớ. Mời bà con phương xa ghé chơi.",
+    "likes": 678
+  },
+  {
+    "id": "c7",
+    "username": "Mỵ nương ẩn danh",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-13T14:00:00+07:00",
+    "body": "Câu cuối hay: Phong Châu không phô trương, càng ở lâu càng thấm cái hồn đất tổ, nơi mỗi ngọn núi dòng sông đều có một câu chuyện. Đúng thật. Ai về cũng nên đi chậm, nghe người già kể chuyện, mới thấy hết cái hay.",
+    "likes": 912
+  },
+  {
+    "id": "c8",
+    "username": "Lái buôn đường biển",
+    "location": "cửa sông",
+    "timestamp": "0018-07-13T15:00:00+07:00",
+    "body": "Tôi từ cửa sông ngược lên Phong Châu buôn bán suốt. Mách thật: mang theo bánh chưng làm lương khô đi đường mùa nước là chuẩn, để được lâu, ăn no không cần đun nấu. Cẩm nang ghi mục này rất thực tế.",
+    "likes": 645
+  },
+  {
+    "id": "c9",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-13T16:00:00+07:00",
+    "body": "Viếng nơi thờ tự nhớ ăn mặc chỉnh tề, đi nhẹ nói khẽ như bài dặn. Đất tổ là chốn linh thiêng. Khách phương xa nhiều người chưa quen tập tục, mong đọc kỹ mục lưu ý. Tôn trọng tập tục là tôn trọng cả vùng đất mình ghé thăm.",
+    "likes": 734
+  }
+]

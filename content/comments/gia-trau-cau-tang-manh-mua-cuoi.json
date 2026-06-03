@@ -1,0 +1,60 @@
+[
+  {
+    "id": "c1",
+    "username": "Bà Lê Thị Tươi",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-23T10:47:00+07:00",
+    "body": "Đứng đầu tiên. Tôi là bà Tươi bán trầu cau được trích lời. Nhà nào lo cưới cũng cần trầu cau làm lễ, mùa này cưới dồn dập, cau đẹp cháy hàng. Buồng nào quả to đều đẹp mã là đặt trước cả tuần. Thiếu gì thì thiếu chứ mâm cưới không thể thiếu trầu cau.",
+    "likes": 945
+  },
+  {
+    "id": "c2",
+    "username": "Chàng rể sắp cưới",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-23T11:20:00+07:00",
+    "body": "Khổ thân tụi em, cưới đúng mùa cau đắt. Buồng cau đẹp giờ giá cao hơn ngày thường gần một nửa. Bác nào biết nhà vườn nào còn cau đẹp giá phải chăng chỉ giúp em với, lễ hỏi tuần sau rồi mà chưa gom đủ.",
+    "likes": 678,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Nhà vườn trồng cau",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-23T12:00:00+07:00",
+        "body": "Cháu ra vườn nhà chú ở ven sông, còn mấy buồng quả đều đẹp. Đặt sớm chú để phần cho, giá gốc, khỏi qua tay tiểu thương đội lên. Mùa cưới năm nay được giá nên nhà chú cũng phấn khởi, nhưng bán cho người thật việc thật thì chú để giá phải chăng.",
+        "likes": 589
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-23T12:30:00+07:00",
+    "body": "Năm nào tới mùa cưới cũng tăng giá, có gì lạ đâu. Cứ thấy cầu cao là tiểu thương hét giá. Tôi khuyên các nhà lo cưới: têm trầu cốt ở cái tình chứ không ở buồng cau to bự. Đừng để mâm cưới thành cuộc đua khoe của như chuyện kén rể.",
+    "likes": 823
+  },
+  {
+    "id": "c4",
+    "username": "Cô gái têm trầu",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-23T13:00:00+07:00",
+    "body": "Mách nhỏ các nhà: lá trầu chọn loại to dày têm cánh phượng mới đẹp, mà giá lá cũng tăng theo cau rồi. Mua sớm vài hôm trước phiên, đừng đợi đúng ngày mới mua kẻo hết hàng đẹp. Kinh nghiệm têm trầu cưới của em.",
+    "likes": 612
+  },
+  {
+    "id": "c5",
+    "username": "Già làng ven sông",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-23T14:00:00+07:00",
+    "body": "Trầu cau là lễ vật không thể thiếu, gốc gác ở tích trầu cau vôi quyện thành tình nghĩa thắm đỏ. Giá có tăng thì cũng nên có, vì nó là cái nghĩa. Chỉ mong tiểu thương đừng thổi giá quá đáng, để nhà nghèo cũng cưới được con.",
+    "likes": 734
+  },
+  {
+    "id": "c6",
+    "username": "Nhà vườn trồng trầu",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-23T15:00:00+07:00",
+    "body": "Năm nay được giá nhà vườn chúng tôi mừng thật, nhưng lo nguồn cung không theo kịp mùa cao điểm. Bà con cần nhiều thì đặt trước để chúng tôi liệu mà hái. Trầu cau là duyên của bao đám cưới, làm nghề này cũng thấy vui lây.",
+    "likes": 567
+  }
+]

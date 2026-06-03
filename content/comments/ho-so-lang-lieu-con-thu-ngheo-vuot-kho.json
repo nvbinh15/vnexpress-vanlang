@@ -1,0 +1,144 @@
+[
+  {
+    "id": "c1",
+    "username": "Thầy đồ vùng Phong Châu",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-15T08:16:00+07:00",
+    "body": "Đứng đầu tiên. Tôi chính là thầy đồ được trích lời cuối bài. Tôi dạy trẻ câu này mỗi mùa Tết: nhà nghèo không đáng sợ, đáng sợ là nghèo mà lười nghĩ. Lang Liêu nghèo của cải nhưng giàu cái đầu. Hai thứ bánh là kết quả của cái đầu chịu nghĩ và đôi tay chịu làm.",
+    "likes": 2934
+  },
+  {
+    "id": "c2",
+    "username": "Người con thứ trong nhà",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-15T08:45:00+07:00",
+    "body": "Em là con thứ, không được cha mẹ chú ý bằng anh cả, ruộng vườn cũng chẳng có phần. Đọc chuyện Lang Liêu mà em thấy được an ủi. Hóa ra người ít được chia phần nhất lại là người buộc phải nghĩ khác. Cảm ơn bài viết.",
+    "likes": 2156,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Già làng làng Thượng",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-15T09:20:00+07:00",
+        "body": "Cháu nói đúng cái thần của câu chuyện. Thiếu thốn buộc người ta nghĩ khác, làm khác, mà cái khác ấy lại đúng. Cứ chịu khó nghĩ chịu khó làm, trời không phụ đâu cháu.",
+        "likes": 1287
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Nông dân Lạc Việt",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-15T09:10:00+07:00",
+    "body": "'Trong trời đất không gì quý bằng hạt gạo.' Câu của Lang Liêu mà cũng là câu của cả đời nhà nông chúng tôi. Vua nối ngôi mà hiểu hạt gạo, hiểu nghề nông là cái phúc của muôn dân. Đáng để truyền ngôi thật.",
+    "likes": 2478
+  },
+  {
+    "id": "c4",
+    "username": "Mẹ thằng Cò",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-15T09:50:00+07:00",
+    "body": "Tết năm nào tôi cũng gói bánh chưng làm bánh giầy, vừa gói vừa kể chuyện này cho thằng Cò nghe. Giờ có bài đầy đủ thế này, tôi đọc cho cả nhà. Bánh vuông là đất, bánh tròn là trời, mà gốc là tấm lòng. Hay quá.",
+    "likes": 1645
+  },
+  {
+    "id": "c5",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-15T10:30:00+07:00",
+    "body": "Nói thật, hai chục ông hoàng tử đi lùng sơn hào hải vị, một ông ở nhà gói bánh gạo mà thắng. Nghe thì đẹp, nhưng tôi đồ rằng nếu vua cha không phải người trọng nghề nông thì Lang Liêu cũng trắng tay. May ở chỗ gặp đúng vua hiểu chuyện.",
+    "likes": 1389,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Thầy đồ vùng Phong Châu",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-15T11:15:00+07:00",
+        "body": "Bác nói cũng có lý. Nhưng Lang Liêu đâu biết trước vua nghĩ gì. Cậu ấy chỉ dâng đúng cái mình là, đúng cái mình làm ra, không vay mượn không giả vờ. Sự thành thật ấy gặp được người hiểu là cái duyên, nhưng làm ra nó là cái tài.",
+        "likes": 1734
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "Người làng Phù Đổng",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-15T11:00:00+07:00",
+    "body": "Các anh em đổ xô đi phương xa tìm của lạ, Lang Liêu nhìn xuống bàn tay mình, xuống thửa ruộng mình, tìm thấy thứ quý nhất ngay đó. Không phải lúc nào câu trả lời cũng ở nơi xa. Câu này đáng treo trên xà nhà.",
+    "likes": 1923
+  },
+  {
+    "id": "c7",
+    "username": "Cô gái têm trầu",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-15T11:40:00+07:00",
+    "body": "Em mê đoạn tả gói bánh: gạo nếp vo sạch, đậu xanh, thịt, gói lá dong, luộc thật lâu. Đọc mà thèm. Tết này em sẽ tập gói cho khéo, để mai mốt về nhà chồng còn biết làm.",
+    "likes": 1045
+  },
+  {
+    "id": "c8",
+    "username": "Lạc dân họ Trần",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-15T12:30:00+07:00",
+    "body": "Vua không chọn theo con trưởng con thứ, không chọn theo người giỏi cung kiếm nhất, mà chọn người hiểu gốc rễ muôn dân. Cách chọn người nối nghiệp này hơn đứt lối cha truyền con nối cứng nhắc. Đáng học.",
+    "likes": 1567
+  },
+  {
+    "id": "c9",
+    "username": "Mỵ nương ẩn danh",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-15T13:10:00+07:00",
+    "body": "Mẹ Lang Liêu mất sớm, cậu không được vua cha sủng ái. Một người con vừa nghèo vừa thiệt thòi tình cảm. Vậy mà không oán, không bỏ cuộc, chỉ lặng lẽ làm. Tôi thương cậu ấy ở chỗ đó.",
+    "likes": 1812
+  },
+  {
+    "id": "c10",
+    "username": "Một bác làm bánh",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-15T14:00:00+07:00",
+    "body": "Nhà tôi bán bánh chưng bánh giầy ở chợ phiên mấy đời. Mùa Tết bán không kịp gói. Mỗi cái bánh bán đi tôi đều thầm cảm ơn Lang Liêu, nhờ cậu ấy mà cả họ tôi có cái nghề. Của ngon nhất nhiều khi không phải của hiếm.",
+    "likes": 1334
+  },
+  {
+    "id": "c11",
+    "username": "Trai nghèo làng Đoài",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-15T15:00:00+07:00",
+    "body": "Em nghèo, đi kén rể không nổi voi chín ngà. Nhưng đọc chuyện Lang Liêu em đỡ tủi. Người nghèo nhất mà thắng được vì biết trân trọng cái mình có. Em có đôi tay biết cày, biết cấy. Em sẽ làm nên chuyện.",
+    "likes": 2089,
+    "replies": [
+      {
+        "id": "c11-r1",
+        "username": "Nông dân Lạc Việt",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-15T15:50:00+07:00",
+        "body": "Đúng tinh thần đó cháu. Đôi tay biết làm với cái đầu chịu nghĩ là vốn quý nhất đời. Cố lên, chú tin cháu.",
+        "likes": 945
+      }
+    ]
+  },
+  {
+    "id": "c12",
+    "username": "Bà bán gạo nếp",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-15T16:30:00+07:00",
+    "body": "Gạo nếp ngon nhất là phải dẻo, thơm, hạt mẩy đều. Lang Liêu chọn thứ nếp ngon nhất để gói là biết làm ăn đấy. Mua nếp nhớ bóp thử thấy chắc tay, ngửi thấy thơm là được. Mách nhỏ bà con mùa Tết.",
+    "likes": 778
+  },
+  {
+    "id": "c13",
+    "username": "Lạc tướng coi vùng Tây",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-15T17:30:00+07:00",
+    "body": "Bài học chọn người tài không theo gia thế mà theo tâm và trí, đáng để các quan coi việc tuyển người suy ngẫm. Lắm kẻ mâm cao cỗ đầy mà rỗng tuếch, có người tay trắng mà đầu đầy mưu lược. Nhìn người phải nhìn cho kỹ.",
+    "likes": 1198
+  },
+  {
+    "id": "c14",
+    "username": "Cha của bốn đứa con",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-15T18:30:00+07:00",
+    "body": "Tôi có bốn đứa con, không định chia gia tài theo thứ bậc nữa. Đứa nào chịu nghĩ chịu làm thì giao việc lớn. Cảm ơn bài viết, đọc xong tôi nghĩ lại cách dạy con của mình.",
+    "likes": 1423
+  }
+]

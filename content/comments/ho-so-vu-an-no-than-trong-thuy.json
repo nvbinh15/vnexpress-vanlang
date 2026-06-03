@@ -1,0 +1,126 @@
+[
+  {
+    "id": "c1",
+    "username": "Lạc tướng coi vùng biên",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-08T08:47:00+07:00",
+    "body": "Đứng đầu tiên. Hồ sơ này đời nào người coi việc an ninh cũng phải đọc lại. Vũ khí lợi hại đến mấy, bí mật cấu tạo rò rỉ là thành vô dụng. Giữ thành không chỉ trông vào tường cao hào sâu, mà phải kiểm soát chặt ai được tới gần cái lẫy nỏ.",
+    "likes": 2456
+  },
+  {
+    "id": "c2",
+    "username": "Mỵ nương ẩn danh",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-08T09:20:00+07:00",
+    "body": "Tôi đọc đi đọc lại đoạn cuối. Nàng công chúa không phản bội. Nàng chỉ yêu và tin, như bất kỳ người vợ chân thành nào. Cảm ơn bài viết đã không trách nạn nhân. Lỗi thuộc về kẻ lợi dụng lòng tin của nàng, không phải nàng.",
+    "likes": 3218,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Người vợ trẻ",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-08T10:05:00+07:00",
+        "body": "Đúng vậy chị. Thương người chồng, tin người chồng là cái nết của người vợ. Đem cái nết đẹp ấy ra trách thì còn ai dám thương ai nữa. Tội nàng quá.",
+        "likes": 1789
+      },
+      {
+        "id": "c2-r2",
+        "username": "Bác hoài nghi xóm Trại",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-08T10:40:00+07:00",
+        "body": "Thương thì thương, nhưng cho chồng xem cả bí mật giữ thành thì cũng dại. Yêu là một chuyện, việc nước là một chuyện. Tôi nói thẳng vậy chứ không phải trách nàng.",
+        "likes": 967
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Quan coi việc bang giao",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-08T09:55:00+07:00",
+    "body": "Tôi là người được trích lời trong bài: hòa hiếu là tốt, nhưng hòa hiếu không có nghĩa là buông lỏng phòng bị. Một lời cầu thân, một cuộc hôn nhân hòa hiếu đôi khi che giấu toan tính sâu xa. Phải cảnh giác ngay cả trong lúc thân tình nhất. Bài học máu xương.",
+    "likes": 2891
+  },
+  {
+    "id": "c4",
+    "username": "Già làng làng Thượng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-08T10:30:00+07:00",
+    "body": "Chuyện này thuộc thời sau Văn Lang ta, kinh đô là tòa thành xoáy ốc. Cha ông tôi kể lại, nghe đến đoạn thành vỡ là ai cũng rơi nước mắt. Mất nước không phải vì giặc mạnh hơn, mà vì lòng tin đặt nhầm chỗ. Đau ở chỗ đó.",
+    "likes": 2034
+  },
+  {
+    "id": "c5",
+    "username": "Thợ rèn làng Rèn",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-08T11:10:00+07:00",
+    "body": "Làm nghề rèn tôi mê cái lẫy nỏ đó lắm. Một bộ phận nhỏ mà giương lên bắn ra cả loạt tên, quét sạch quân vây thành. Tiếc là tinh xảo đến đâu mà bị tráo đồ giả thì cũng vô dụng. Giữ bí mật mới là cái khó nhất, không phải làm ra nó.",
+    "likes": 1567
+  },
+  {
+    "id": "c6",
+    "username": "Lạc dân họ Trần",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-08T11:50:00+07:00",
+    "body": "Đứa con rể mang sứ mệnh do cha giao sang dò bí mật, dùng cả tình vợ chồng làm bình phong. Loại người này đáng sợ hơn cả vạn quân. Đọc mà rùng mình. Hòa hiếu kiểu này thà đừng hòa.",
+    "likes": 1923
+  },
+  {
+    "id": "c7",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-08T12:30:00+07:00",
+    "body": "Đoạn vua cùng đường bên bờ biển mới vỡ lẽ chính con gái mình để lộ dấu vết cho giặc lần theo. Bi thương nhất là ở chỗ nàng hoàn toàn vô can về ý định. Yêu mà thành công cụ. Tôi đọc xong buồn cả ngày.",
+    "likes": 1745
+  },
+  {
+    "id": "c8",
+    "username": "Một bác hay nghi",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-08T13:15:00+07:00",
+    "body": "Tôi vẫn giữ ý: việc nước thì dù vợ con cũng không nên cho biết hết. Không phải vì không tin người nhà, mà vì người nhà có thể vô tình để lộ. Giữ bí mật là giữ cho cả nhà, không phải nghi ngờ nhau.",
+    "likes": 1289,
+    "replies": [
+      {
+        "id": "c8-r1",
+        "username": "Quan coi việc bang giao",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-08T14:00:00+07:00",
+        "body": "Bác nói trúng nguyên tắc của người coi việc cơ mật: ai không cần biết thì không cho biết, dù là người thân nhất. Không phải vì nghi, mà vì càng ít người biết thì bí mật càng vững. Đó là thương người nhà theo cách khác.",
+        "likes": 1456
+      }
+    ]
+  },
+  {
+    "id": "c9",
+    "username": "Mẹ ba con",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-08T14:20:00+07:00",
+    "body": "Là người mẹ, tôi dạy con gái: thương ai cũng phải giữ lại một phần tỉnh táo. Không phải để đề phòng người mình thương, mà để khi có biến, mình còn đủ sáng suốt mà che chở cho cả nhà. Tội nàng công chúa quá.",
+    "likes": 1834
+  },
+  {
+    "id": "c10",
+    "username": "Thầy đồ vùng Phong Châu",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-08T15:00:00+07:00",
+    "body": "Tôi dạy học trò ba bài học của hồ sơ này: một là giữ bí mật quốc phòng, hai là cảnh giác trong bang giao, ba là không trách nạn nhân. Nhưng tôi nhấn nhất bài thứ ba. Trẻ con bây giờ hay đổ lỗi cho người bị hại, phải dạy lại từ chuyện này.",
+    "likes": 2167
+  },
+  {
+    "id": "c11",
+    "username": "Người làng Phù Đổng",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-08T16:00:00+07:00",
+    "body": "Người đời sau lập đền thờ nàng, xem nàng là biểu tượng của sự trong trắng bị phản bội. Cái cách hậu thế đối đãi với nàng cũng là một bài học: thương người ngay, đừng a dua trách kẻ vô tội.",
+    "likes": 1378
+  },
+  {
+    "id": "c12",
+    "username": "Lạc tướng coi vùng Đông",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-08T17:00:00+07:00",
+    "body": "Phương Bắc thua trên chiến trường thì chuyển sang cầu hòa rồi kết thông gia. Đánh không được thì cưới để đoạt. Đọc tin phương Bắc đang gom thiên hạ mà liên hệ chuyện này thấy lạnh gáy. Phải tăng cường cảnh giác từ xa.",
+    "likes": 1645
+  }
+]

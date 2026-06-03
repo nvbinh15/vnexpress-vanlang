@@ -1,0 +1,70 @@
+[
+  {
+    "id": "c1",
+    "username": "Nông phụ làng Hạ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-24T08:16:00+07:00",
+    "body": "Đứng đầu tiên. Mẹo treo bánh lên xà nhà sàn chuẩn bài luôn các bác. Năm nào nhà em cũng gói dư mấy chục cái, ép chặt, treo cao thoáng gió, ăn dần cả mùa nước. Mùa lũ nấu nướng khó, có bánh chưng treo sẵn là yên tâm nhất.",
+    "likes": 678
+  },
+  {
+    "id": "c2",
+    "username": "Bà cụ ven sông",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-24T08:50:00+07:00",
+    "body": "Tôi là bà cụ được trích lời cuối bài. Bánh chưng giữ khéo thì qua hết mùa nước vẫn ăn được. Bí quyết là ép thật chặt cho ráo nước thừa. Bánh càng ráo càng để lâu. Lá ngoài thâm mà ruột còn tốt thì bóc ra luộc lại, ăn vẫn ngon nguyên.",
+    "likes": 612,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Cô dâu mới",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-24T09:30:00+07:00",
+        "body": "Cảm ơn cụ. Cháu mới về nhà chồng chưa biết giữ bánh, cứ để dưới sàn nên hôm trước chớm mốc. Lần này cháu ép chặt treo cao theo lời cụ. Mẹ chồng cháu khen cháu chịu học, mừng quá.",
+        "likes": 423
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Mẹ thằng Cò",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-24T09:40:00+07:00",
+    "body": "Bổ sung mẹo nhỏ: hằng ngày nhớ xem lá bánh, chớm mốc ở góc thì lột bỏ lá ngoài, dùng phần đó trước, đừng để mốc lan vào trong. Nhà đông con ăn nhanh thì khỏi lo, nhà ít người mới phải canh kỹ.",
+    "likes": 489
+  },
+  {
+    "id": "c4",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-24T10:20:00+07:00",
+    "body": "Treo cao thoáng gió thì đúng, nhưng nhà ai thấp lè tè, mùa lũ nước lên tới xà thì treo đâu cho thoát? Mẹo này hợp nhà sàn cao thôi. Dân ở nhà thấp chúng tôi mùa nước bánh nào cũng ẩm, gói nhiều cũng hỏng nhiều.",
+    "likes": 412,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Bà cụ ven sông",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-24T11:00:00+07:00",
+        "body": "Bác ở nhà thấp thì luộc bánh thật kỹ, ép thật chặt cho ráo kiệt nước, rồi treo chỗ cao nhất trong nhà, dù không thoáng lắm cũng còn hơn để dưới sàn. Mỗi nhà liệu theo cảnh nhà mình, cốt là ráo nước bác ạ.",
+        "likes": 356
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Lái buôn đường biển",
+    "location": "cửa sông",
+    "timestamp": "0018-07-24T11:40:00+07:00",
+    "body": "Mách thêm cho cánh đi đường xa: bánh chưng ráo nước gói thêm lớp lá khô bên ngoài, để được lâu hơn, làm lương khô đi thuyền cực hợp. Tôi đi buôn cả tháng trên sông chỉ nhờ mấy cái bánh chưng. Bài viết thực dụng, cảm ơn.",
+    "likes": 445
+  },
+  {
+    "id": "c6",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-24T12:30:00+07:00",
+    "body": "Mùa Thủy Tinh dâng nước, bánh chưng đúng là cứu cánh. Ngồi trên gò cao nước vây tứ phía, có chùm bánh treo trên xà là lòng đỡ lo cái đói. Cảm ơn các bà các mẹ đã đúc rút mẹo này qua bao mùa nước cho con cháu nhờ.",
+    "likes": 478
+  }
+]

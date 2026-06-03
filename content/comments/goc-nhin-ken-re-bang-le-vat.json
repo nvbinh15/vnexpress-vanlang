@@ -1,0 +1,160 @@
+[
+  {
+    "id": "c1",
+    "username": "Trai nghèo làng Đoài",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-20T06:18:00+07:00",
+    "body": "Đứng đầu tiên. Đọc bài mà tủi. Em cày giỏi cấy giỏi, người thương cũng ưng em, vậy mà nhà gái thách đôi ngà voi với chục vò muối, em đào đâu ra. Cuối cùng nàng về làm dâu nhà có của. Lạc hầu nói đúng từng chữ.",
+    "likes": 2487
+  },
+  {
+    "id": "c2",
+    "username": "Bà mẹ làng Trung",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-20T06:52:00+07:00",
+    "body": "Tôi là bà mẹ được trích lời trong bài. Tôi không chối, tôi có nói câu đó. Nhưng các bác làm cha mẹ thì hiểu: tôi gả con đi, tôi đâu sống đời thay nó được. Nhà có lễ là nhà có của, có của thì con tôi đỡ đói. Tôi thương con theo cách của tôi.",
+    "likes": 1934,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Lạc hầu Nguyễn Đình Thư",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-20T07:30:00+07:00",
+        "body": "Thưa bà, tôi hiểu và tôi không hề trách. Bài viết của tôi cũng đã ghi rõ nỗi lòng người mẹ. Tôi chỉ mong, ngoài chuyện lễ, ta hỏi thêm một câu về nết người của chàng rể. Có vậy thôi ạ.",
+        "likes": 1612
+      },
+      {
+        "id": "c2-r2",
+        "username": "Mỵ nương ẩn danh",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-20T08:05:00+07:00",
+        "body": "Thưa bác, con gái cũng có lòng riêng của nó. Đôi khi nó thương một người tay trắng mà tử tế hơn cả mâm cao cỗ đầy. Mong các mẹ hỏi con một câu trước khi gả.",
+        "likes": 2891
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Già làng làng Thượng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-20T07:40:00+07:00",
+    "body": "Tôi tám mươi tuổi, dự không biết bao nhiêu đám cưới. Đám nào thách lễ nặng quá, về sau hai bên hay sinh chuyện. Vì cưới xong nhà trai kiệt quệ, cả họ oán. Lễ là nghĩa, đúng. Nhưng nghĩa mà thành nợ thì còn gì là nghĩa.",
+    "likes": 3204
+  },
+  {
+    "id": "c4",
+    "username": "Lạc tướng coi vùng Đông",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-20T08:22:00+07:00",
+    "body": "Phải nói cho công bằng: cuộc kén rể năm xưa của vua là chuyện bất đắc dĩ giữa hai vị thần ngang tài, lễ vật là phép phân định không tránh được. Cái sai là dân ta đem cái phép thử của thần ra làm tục lệ đại trà. Tác giả phân biệt rất rõ chỗ này, tôi phục.",
+    "likes": 1456
+  },
+  {
+    "id": "c5",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-20T09:00:00+07:00",
+    "body": "Nói thì hay lắm. Nhưng bác lạc hầu thử đi hỏi vợ cho con trai mà tay không xem nhà gái có tiếp không. Bỏ lễ thì lý tưởng đấy, nhưng đời thực ai dám đi đầu? Cứ hô hào 'giảm thách cưới' mà chẳng nhà nào dám giảm trước.",
+    "likes": 2178,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Già làng làng Thượng",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-20T09:45:00+07:00",
+        "body": "Bác nói cũng phải. Cho nên việc này phải cả làng cùng làm, một nhà làm thì khó. Làng tôi năm nay họp bàn ra lệ chung: thách lễ không quá năm phần. Ai cũng theo thì chẳng ai thiệt. Bác về bàn với làng bác xem.",
+        "likes": 1389
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "Người làng Phù Đổng",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-20T09:30:00+07:00",
+    "body": "Đoạn nhắc Lang Liêu hay quá. Người con nghèo nhất, không vàng bạc, chỉ có hạt gạo với đôi tay mà thắng cả mâm sơn hào. Cái quý nằm ở tấm lòng. Vậy mà cưới hỏi lại đi đo nhau bằng số ngà số cựa. Đọc xong thấm thật.",
+    "likes": 1845
+  },
+  {
+    "id": "c7",
+    "username": "Dân chài sông Cái",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-20T10:10:00+07:00",
+    "body": "Đoạn cuối bài lạnh sống lưng. 'Mỗi cuộc hôn nhân dựng trên so bì lễ vật mà bỏ quên lòng người đều có thể sinh ra một Thủy Tinh mới.' Năm nào tôi cũng dọn nhà vì ngài ấy ấm ức, đọc câu này mới giật mình. Bài học một mùa lũ đời đời rồi.",
+    "likes": 2956
+  },
+  {
+    "id": "c8",
+    "username": "Mỵ nương ẩn danh",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-20T10:50:00+07:00",
+    "body": "Là phận con gái, tôi sợ nhất bị gả như món hàng đổi lấy đôi ngà voi. Cảm ơn vị lạc hầu đã nói hộ chúng tôi. Mong các mẹ đọc bài này.",
+    "likes": 2310
+  },
+  {
+    "id": "c9",
+    "username": "Thương nhân chợ phiên",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-20T11:25:00+07:00",
+    "body": "Nói thật, lễ vật leo thang thì người buôn chúng tôi được lợi, ngà voi cựa gà bán chạy. Nhưng tôi vẫn thấy bài này đúng. Có khách vay nợ mua lễ cưới con, cưới xong cả năm bán tống bán tháo trả nợ. Nhìn mà không nỡ.",
+    "likes": 1178
+  },
+  {
+    "id": "c10",
+    "username": "Cô gái sắp lấy chồng",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-20T12:00:00+07:00",
+    "body": "Người em thương là trai nghèo nhưng siêng, ngày nào cũng ra đồng từ tinh mơ. Mẹ em chê không đủ lễ. Em đưa bài này cho mẹ đọc, không biết mẹ có đổi ý không. Cầu trời.",
+    "likes": 2645,
+    "replies": [
+      {
+        "id": "c10-r1",
+        "username": "Bà mẹ làng Trung",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-20T13:15:00+07:00",
+        "body": "Cháu ơi, bác cũng là mẹ. Bác khuyên thật: nếu thằng đó siêng, hiếu, biết thương cháu thì nói mẹ cháu hạ lễ xuống. Đôi tay biết làm còn quý hơn đôi ngà voi. Bác nói thế chứ lòng bác cũng còn tham như mọi người mẹ thôi.",
+        "likes": 1967
+      }
+    ]
+  },
+  {
+    "id": "c11",
+    "username": "Lạc dân họ Trần",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-20T12:40:00+07:00",
+    "body": "Voi chín ngà đo được nhà có người săn giỏi, có kho có lẫm. Nhưng nó không đo được thằng rể có chịu dậy sớm ra đồng không. Câu này tác giả viết hay quá, tôi chép lại dạy con.",
+    "likes": 1023
+  },
+  {
+    "id": "c12",
+    "username": "Một bác làm mai",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-20T13:30:00+07:00",
+    "body": "Làm nghề mai mối hai chục năm, tôi nói thật: đám nào hai bên đo nhau bằng lễ thì tôi ngại nhất. Còn đám nào nhà gái hỏi 'thằng đó có chịu khó không' là tôi mừng, vì biết đám đó bền.",
+    "likes": 1342
+  },
+  {
+    "id": "c13",
+    "username": "Trai làng họ Đinh",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-20T14:15:00+07:00",
+    "body": "Gom đủ voi chín ngà gà chín cựa là chuyện của thần. Còn tụi em chỉ mong gom đủ buồng cau với mấy vò rượu cho phải phép là đã hết hơi. Mong các làng nghe lời lạc hầu mà hạ lễ xuống.",
+    "likes": 887
+  },
+  {
+    "id": "c14",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-20T15:00:00+07:00",
+    "body": "Tôi ven sông, mỗi mùa lũ là nhớ ngài Thủy Tinh thua kén rể. Đọc bài này tôi nghĩ: giá ngày ấy có ai khuyên ngài như lạc hầu khuyên dân hôm nay, chắc đồng bằng đã bớt một mùa nước mắt.",
+    "likes": 1576
+  },
+  {
+    "id": "c15",
+    "username": "Mẹ ba con",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-20T16:20:00+07:00",
+    "body": "Tôi gả hai đứa rồi, một đứa lấy nhà giàu lễ to mà giờ khổ, một đứa lấy trai nghèo siêng mà giờ ấm. Đời dạy tôi đúng như bài này nói. Đứa thứ ba tôi sẽ hỏi nết trước, hỏi của sau.",
+    "likes": 2089
+  }
+]

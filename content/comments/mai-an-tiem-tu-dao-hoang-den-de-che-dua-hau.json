@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c1",
+    "username": "Thương nhân chợ phiên",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-10T09:18:00+07:00",
+    "body": "Đứng. Trong giới làm ăn ở Văn Lang, cái tên Mai An Tiêm đúng là đồng nghĩa với hai chữ tự lực. Tay trắng giữa đảo hoang mà dựng nên cả một vựa dưa, thuyền buôn tìm tới đổi hàng. Bái phục. Bài hay cho cánh buôn bán chúng tôi.",
+    "likes": 1834
+  },
+  {
+    "id": "c2",
+    "username": "Lái buôn đường biển",
+    "location": "cửa sông",
+    "timestamp": "0018-07-10T09:50:00+07:00",
+    "body": "Cái nước cờ thả dưa khắc dấu theo con nước vào bờ là bậc thầy. Không có thuyền lớn chở hàng thì dùng sóng làm thuyền, mỗi quả dưa là một mẫu thử miễn phí kèm dấu hiệu xuất xứ. Tôi buôn mấy chục năm chưa nghĩ ra chiêu nào hay vậy.",
+    "likes": 2156,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Thương nhân chợ phiên",
+        "location": "Chợ phiên Kẻ Chủ",
+        "timestamp": "0018-07-10T10:30:00+07:00",
+        "body": "Đúng bác. Mà cái khắc dấu lên vỏ dưa mới tài: người ăn ngon rồi lần theo dấu mà tìm ra nguồn. Bây giờ tôi cũng khắc dấu riêng lên vò mắm nhà tôi, học theo ngài đấy.",
+        "likes": 1023
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Nông dân Lạc Việt",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-10T10:40:00+07:00",
+    "body": "Thấy đàn chim nhả hạt xuống cát, chim ăn được thì người ăn được, ông nhặt gieo thử. Cái tính chịu quan sát, chịu thử ấy mới đáng học. Nhà nông chúng tôi cũng vậy, để ý trời đất chim muông mà biết mùa vụ.",
+    "likes": 1456
+  },
+  {
+    "id": "c4",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-10T11:20:00+07:00",
+    "body": "Ông này bị đày là vì cái miệng. Khoe của cải toàn do tài sức bản thân chứ chẳng phải lộc trời. Nói thẳng thì hay nhưng vô duyên trước mặt vua thì khổ thân cả nhà. May mà giữa đảo hoang ông chứng minh được, chứ không thì chết cả nhà vì cái miệng.",
+    "likes": 1289,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Thương nhân ven biển",
+        "location": "cửa sông",
+        "timestamp": "0018-07-10T12:00:00+07:00",
+        "body": "Bác nói đúng nửa. Câu nói thẳng khiến ông bị đày, nhưng chính cái lì trong câu nói ấy lại cứu ông giữa đảo. Cuối cùng ông chứng minh được vế đầu, mà cũng học được vế sau là phải khiêm nhường nhìn cả cái duyên trời đất.",
+        "likes": 967
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Bà bán dưa chợ phiên",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-10T12:30:00+07:00",
+    "body": "Nhờ ngài mà chợ tôi có dưa hấu bán quanh năm, mùa Tết đắt như tôm tươi. Vỏ xanh ruột đỏ, ngọt mát, ai cũng chuộng. Đội ơn ngài Mai An Tiêm. Chọn dưa nhớ vỗ nghe bộp bộp, cuống héo là dưa chín nhé bà con.",
+    "likes": 1178
+  },
+  {
+    "id": "c6",
+    "username": "Trai nghèo làng Đoài",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-10T13:10:00+07:00",
+    "body": "Em tay trắng, đọc xong thấy có động lực. Bị đẩy vào chỗ không có gì mà ông vẫn dựng cơ nghiệp. Không bỏ cuộc, quan sát, thử nghiệm, kiên trì, sáng tạo. Em chép lại năm chữ đó dán lên vách.",
+    "likes": 1345
+  },
+  {
+    "id": "c7",
+    "username": "Lạc dân họ Vũ",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-10T14:00:00+07:00",
+    "body": "Vợ con ông cũng theo ra đảo cùng khai khẩn, không một lời than. Cơ nghiệp này là của cả nhà. Người đàn ông có chí mà có người nhà đồng lòng thì việc gì cũng nên.",
+    "likes": 945
+  },
+  {
+    "id": "c8",
+    "username": "Già làng ven sông",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-10T15:00:00+07:00",
+    "body": "Câu của ông thương nhân ven biển trong bài chí lý: của cải đúng là do tài sức làm ra, nhưng phải biết khiêm nhường mà nhìn cả cái duyên trời đất. Đời người được cả hai vế ấy mới gọi là khôn.",
+    "likes": 1234
+  },
+  {
+    "id": "c9",
+    "username": "Mỵ nương ẩn danh",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-10T16:00:00+07:00",
+    "body": "Vua đày ông để dạy bài học khiêm nhường, rồi nhận ra mình hiểu lầm mà đón ông về phục chức. Vua cũng biết sửa sai. Cả hai bên cuối cùng đều học được điều mình thiếu. Một kết thúc đẹp.",
+    "likes": 1056
+  },
+  {
+    "id": "c10",
+    "username": "Thương nhân chợ phiên",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-10T17:00:00+07:00",
+    "body": "Mách bà con buôn dưa: chọn quả to đẹp nhất để dành làm 'mặt hàng giới thiệu', còn lại bán đại trà. Học đúng cách ngài thả quả đẹp nhất theo nước. Hàng đẹp đi trước, tiếng lành đồn xa, khách tự tìm tới.",
+    "likes": 823
+  },
+  {
+    "id": "c11",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-10T18:00:00+07:00",
+    "body": "Đế chế dưa hấu dựng từ con số không giữa đảo hoang. Mỗi mùa Tết bổ quả dưa đỏ tươi cầu may, tôi lại nhớ ông. Quả dưa đỏ mang ý nghĩa may mắn cũng là nhờ cái nghị lực đỏ thắm của một người không chịu thua hoàn cảnh.",
+    "likes": 978
+  }
+]

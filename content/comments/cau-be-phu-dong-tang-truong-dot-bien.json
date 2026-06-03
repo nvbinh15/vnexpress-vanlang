@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c1",
+    "username": "Người làng Phù Đổng",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-14T09:47:00+07:00",
+    "body": "Đứng đầu tiên cho làng tôi! Đền thờ Thánh Gióng ở làng Phù Đổng chúng tôi đây ạ. Mỗi mùa hội cả vùng kéo về. Tự hào lắm các bác. Đứa trẻ ấy không phải con riêng một nhà, nó là con của cả làng.",
+    "likes": 2187
+  },
+  {
+    "id": "c2",
+    "username": "Mẹ thằng Cò",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-14T10:15:00+07:00",
+    "body": "Con tôi ba tuổi chưa nói sõi, đọc bài này tôi cứ ngẩn ra. Có khi cháu chỉ chậm chứ không sao, biết đâu sau này lại vươn vai lớn. Mong các thầy lang tư vấn thêm cho các mẹ có con chậm nói đỡ lo.",
+    "likes": 1456,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Thầy lang làng Hạ",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-14T11:00:00+07:00",
+        "body": "Chị đừng quá lo. Mỗi đứa một nhịp lớn. Cứ cho cháu ăn no, ăn đủ cơm cà rau cá, gần gũi trò chuyện với cháu nhiều vào. Trẻ trong giai đoạn lớn nhanh thì ăn khỏe là mừng, không phải lo.",
+        "likes": 934
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Già làng Phù Đổng",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-14T10:50:00+07:00",
+    "body": "Tôi là bô lão được trích lời. Cả làng nuôi nó lớn để nó đi giữ làng giữ nước, đó mới là điều đáng nhớ nhất. Một hạt gạo mỗi nhà chẳng đáng gì, cả làng góp lại nuôi được người dời non lấp bể. Đó là sức của chữ 'góp'.",
+    "likes": 2034
+  },
+  {
+    "id": "c4",
+    "username": "Nông dân Lạc Việt",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-14T11:30:00+07:00",
+    "body": "Nhà cậu bé nghèo, không lo nổi cơm cà, cả làng gánh tới nuôi. Nghe mà ấm lòng. Làng tôi cũng vậy, nhà ai hoạn nạn là cả xóm xúm vào. Tình làng nghĩa xóm của người Lạc Việt mình quý ở chỗ đó.",
+    "likes": 1623
+  },
+  {
+    "id": "c5",
+    "username": "Thợ rèn làng Rèn",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-14T12:10:00+07:00",
+    "body": "Rèn ngựa sắt, roi sắt, áo giáp sắt cho một cậu bé ba tuổi nghe thì lạ, nhưng làng rèn chúng tôi tin chuyện này. Sắt tốt rèn ra binh khí tốt. Tiếc là roi sắt gãy giữa trận, ngài phải nhổ tre đánh giặc. Đến cây tre cũng thành vũ khí giữ nước.",
+    "likes": 1289
+  },
+  {
+    "id": "c6",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-14T13:00:00+07:00",
+    "body": "Ba năm không nói không ngồi rồi bỗng ăn mấy nong cơm mỗi bữa, lớn nhanh như thổi. Tôi nghe thì kính nể, nhưng nói thật cơ thể người thường ăn thế thì bội thực. Đây là chuyện của thánh, không phải chuyện thường, đừng ai bắt chước cho con ăn lấy ăn để.",
+    "likes": 967,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "Thầy lang làng Hạ",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-14T13:45:00+07:00",
+        "body": "Bác nói phải. Trẻ lớn nhanh cần ăn nhiều nhưng phải vừa sức tiêu, ép ăn quá là hại. Chuyện Thánh Gióng là chuyện phi thường, ta học cái tinh thần cộng đồng góp gạo thôi, đừng học cách cho ăn nhé bà con.",
+        "likes": 845
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "Cô gái têm trầu",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-14T14:20:00+07:00",
+    "body": "Em thích nhất chi tiết cậu cất tiếng nói đầu đời là xin đi đánh giặc. Ba năm im lặng, mở miệng ra là vì việc nước. Cảm động ghê.",
+    "likes": 1102
+  },
+  {
+    "id": "c8",
+    "username": "Lạc dân họ Trần",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-14T15:10:00+07:00",
+    "body": "Cơm với cà, những thứ dân dã nhất, góp lại nuôi nên một tráng sĩ dẹp giặc Ân. Đọc xong tôi thấy bữa cơm cà nhà mình cũng thiêng liêng hẳn. Bài viết hay, nhìn truyền thuyết dưới góc dinh dưỡng mà vẫn không mất cái hồn.",
+    "likes": 1378
+  },
+  {
+    "id": "c9",
+    "username": "Mẹ ba con",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-14T16:00:00+07:00",
+    "body": "Đánh tan giặc xong ngài cưỡi ngựa bay về trời ở núi Sóc, không màng công danh. Dạy con tôi một bài: làm việc lớn cho dân cho nước rồi lui về, không tham. Hiếm có người được như ngài.",
+    "likes": 1245
+  },
+  {
+    "id": "c10",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-14T17:00:00+07:00",
+    "body": "Chữ 'góp' trong bài hay quá. Mùa lũ này nhà tôi cũng nhờ cả xóm góp gạo góp cà mà qua được. Sức mạnh của cả cộng đồng dồn vào lúc khó, đó là cái Thánh Gióng dạy chúng ta. Cảm ơn bài viết.",
+    "likes": 1067
+  }
+]

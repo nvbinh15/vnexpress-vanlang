@@ -1,0 +1,68 @@
+[
+  {
+    "id": "c1",
+    "username": "Nông dân Lạc Việt",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-22T16:17:00+07:00",
+    "body": "Đứng đầu tiên. Tôi chính là nông dân làng Hạ được trích lời. Lên cao thì đỡ ngập thật, nhưng ruộng tôi ở dưới này, lên trên lấy gì mà cấy? Mong triều đình tính cả chuyện đất cấy trồng cho dân, chứ không phải chỉ lo chỗ ngủ.",
+    "likes": 1456
+  },
+  {
+    "id": "c2",
+    "username": "Lạc hầu coi việc đê điều",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-22T16:50:00+07:00",
+    "body": "Thưa bà con, kế hoạch chia ba đợt: đợt đầu gia cố đê đất sẵn có, đợt hai trồng tre giữ bờ, đợt ba khảo sát gò cao quy hoạch nơi ở mới. Mỗi hộ dời lên vẫn giữ phần ruộng dưới thấp, ngủ trên cao làm dưới thấp. Chúng tôi phấn đấu làm cho dân yên.",
+    "likes": 1234,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Nông dân Lạc Việt",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-22T17:30:00+07:00",
+        "body": "Nghe vậy thì dân yên tâm phần nào. Mong các quan làm thật chứ đừng để 'phấn đấu' mãi mà ruộng vẫn ngập nhà vẫn trôi. Trồng tre giữ bờ là hay, tre vừa giữ đất vừa làm được trăm thứ việc.",
+        "likes": 845
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Già làng làng Thượng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-22T17:40:00+07:00",
+    "body": "Năm nào cũng dâng, năm nào cũng dọn, không thể cứ thế mãi. Câu trong chiếu vua nói trúng lòng dân. Vừa đắp đê vừa dời dân là phải. Nhưng dời dân là chuyện cả đời người, phải từ từ, đừng ép, để dân tự nguyện thì mới bền.",
+    "likes": 1102
+  },
+  {
+    "id": "c4",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-22T18:20:00+07:00",
+    "body": "Họp bàn thì năm nào chẳng họp. Nghe 'quyết tâm cao, làm đồng bộ, không để bị động bất ngờ' mãi thành quen tai. Tôi chờ xem đê có đắp thật không, hay nước rút lại quên. Làm được tôi khen, nói suông tôi chịu.",
+    "likes": 967
+  },
+  {
+    "id": "c5",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-22T19:00:00+07:00",
+    "body": "Dời lên cao tôi ủng hộ, nhưng nhà tôi mấy đời ở ven sông, mồ mả ông bà cũng ở đây. Đi thì nhớ, ở thì lo. Mong triều đình tính cả chuyện này, dời người sống còn dễ, dời cái tình với đất thì khó.",
+    "likes": 1023
+  },
+  {
+    "id": "c6",
+    "username": "Thợ trồng tre",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-22T20:00:00+07:00",
+    "body": "Nghe có đợt trồng tre giữ bờ là tôi mừng. Nhà tôi ươm tre giống mấy đời, tre gai giữ đất tốt nhất. Triều đình cần giống thì tôi sẵn. Trồng tre vừa giữ bờ chống lũ vừa có măng ăn, có tre đan lát. Một công đôi việc.",
+    "likes": 734
+  },
+  {
+    "id": "c7",
+    "username": "Lạc tướng coi vùng Tây",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-22T21:00:00+07:00",
+    "body": "Buổi chầu cũng giao phủ Tản Viên phối hợp đắp các mỏm đá chặn ba con đường nước Thủy Tinh hay theo. Người với thần cùng lo, thế trận phòng lũ mới vững. Mong sang năm dân bớt khổ, đỡ phải dọn nhà mỗi mùa nước.",
+    "likes": 889
+  }
+]

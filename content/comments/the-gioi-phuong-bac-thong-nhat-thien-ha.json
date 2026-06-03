@@ -1,0 +1,94 @@
+[
+  {
+    "id": "c1",
+    "username": "Lạc tướng coi vùng biên",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-19T11:17:00+07:00",
+    "body": "Đứng đầu tiên. Tin từ biên giới phía Bắc thì người coi việc giữ bờ cõi chúng tôi đọc kỹ lắm. Một nước lớn đang nuốt dần các nước nhỏ, quân đông vũ khí sắc lại có kỷ luật. Chưa nhắm tới ta nhưng không vì thế mà lơ là. Phải đề phòng từ xa.",
+    "likes": 1645
+  },
+  {
+    "id": "c2",
+    "username": "Thương nhân đường bộ",
+    "location": "núi Tản",
+    "timestamp": "0018-07-19T11:50:00+07:00",
+    "body": "Tôi chính là thương nhân đi đường bộ lên phương Bắc được trích lời. Mấy chục năm trước trên ấy nhiều nước đánh nhau suốt, giờ chỉ còn lác đác vài nước, một nước mạnh nhất đang nuốt dần. Đi tới đâu thắng tới đó. Tôi tận mắt thấy đường sá họ làm thẳng tắp, đáng nể mà cũng đáng sợ.",
+    "likes": 1834
+  },
+  {
+    "id": "c3",
+    "username": "Già làng am hiểu phương Bắc",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-19T12:30:00+07:00",
+    "body": "Tôi là bô lão được trích lời. Nước lớn khi đã gom xong thiên hạ của họ thì thường nhìn ra bốn phía. Việc của ta là lo cho mình vững trước đã. Trong ấm thì ngoài mới yên. Câu này con cháu nhớ cho kỹ.",
+    "likes": 2156,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Lạc dân họ Trần",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-19T13:15:00+07:00",
+        "body": "Cụ nói chí phải. Lo giữ làng giữ ruộng, dân ấm no, các làng đoàn kết thì giặc nào tới cũng khó. Trong nhà lủng củng thì kẻ ngoài mới dòm ngó.",
+        "likes": 945
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-19T13:00:00+07:00",
+    "body": "Tin còn rời rạc, qua nhiều khâu trung gian, khó kiểm chứng. Tôi nghe tai này lọt tai kia thôi. Đường xuống phương Nam của ta xa xôi, núi non hiểm trở, sông ngòi chằng chịt, giặc nào xuống nổi. Lo xa quá cũng mệt người.",
+    "likes": 1289,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Lạc tướng coi vùng biên",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-19T13:45:00+07:00",
+        "body": "Bác chủ quan vậy là nguy. Núi non hiểm trở giúp ta thật, nhưng giặc nhà nỏ thần năm xưa thua trận thì quay sang cầu hôn để đoạt bí mật đấy. Không phải cứ xa là yên. Cảnh giác chẳng bao giờ thừa.",
+        "likes": 1456
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Thợ rèn làng Rèn",
+    "location": "Chợ phiên Kẻ Chủ",
+    "timestamp": "0018-07-19T14:20:00+07:00",
+    "body": "Họ vũ khí sắc, kỷ luật chặt. Làng rèn chúng tôi nên học cách rèn binh khí cho tốt hơn, dự phòng. Giữ nước thời nào cũng cần thợ rèn giỏi. Tôi sẵn sàng góp sức nếu triều đình cần.",
+    "likes": 1023
+  },
+  {
+    "id": "c6",
+    "username": "Người làng Phù Đổng",
+    "location": "Phù Đổng",
+    "timestamp": "0018-07-19T15:00:00+07:00",
+    "body": "Giặc Ân phương Bắc năm xưa cũng từng tràn xuống, may có Thánh Gióng. Phương Bắc lúc nào cũng đông và mạnh. Nhưng làng tôi tin: hễ có giặc là cả dân tộc lại vươn vai. Cứ lo cho mình vững, có biến thì cả nước góp sức.",
+    "likes": 1378
+  },
+  {
+    "id": "c7",
+    "username": "Quan coi việc bang giao",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-19T16:00:00+07:00",
+    "body": "Chúng tôi đang tăng cường nắm tình hình qua các đoàn thương nhân và sứ giả. Chưa có dấu hiệu họ nhắm phương Nam, họ còn bận thu phục các nước quanh họ. Nhưng hòa hiếu không có nghĩa buông lỏng phòng bị. Phải củng cố các vùng biên.",
+    "likes": 1234
+  },
+  {
+    "id": "c8",
+    "username": "Mỵ nương ẩn danh",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-19T17:00:00+07:00",
+    "body": "Đọc tin này rồi nhớ chuyện nỏ thần lại thấy lo. Hồi đó họ cũng cầu hòa, xin thông gia rồi trở mặt. Mong triều đình ta đời nào cũng nhớ bài học ấy, đừng vì lời hòa hiếu ngọt ngào mà mất cảnh giác.",
+    "likes": 1156
+  },
+  {
+    "id": "c9",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-19T18:00:00+07:00",
+    "body": "Dân ven sông chúng tôi lo cái lũ trước mắt còn chưa xong, chuyện phương Bắc xa xôi thì để các quan lo. Nhưng có giặc thì trai làng tôi sẵn sàng. Giữ làng giữ nước là việc chung, đâu của riêng ai.",
+    "likes": 967
+  }
+]

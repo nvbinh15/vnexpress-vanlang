@@ -1,0 +1,78 @@
+[
+  {
+    "id": "c1",
+    "username": "Trai làng Hạ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-18T17:47:00+07:00",
+    "body": "Đứng đầu tiên! Làng Hạ đứng đầu bảng, về nhất cả hai lượt đua, đương kim vô địch vẫn là số một! Sông Đà là của làng Hạ. Vào chung kết là tay chèo chúng tôi quyết giữ cúp. Bà con hai bờ chuẩn bị khản cổ cổ vũ nhé!",
+    "likes": 945
+  },
+  {
+    "id": "c2",
+    "username": "Trai làng Thượng",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-18T18:20:00+07:00",
+    "body": "Cay thật. Vô địch sới vật mà đua thuyền lại va phải khúc gỗ trôi giữa dòng, mất nhịp chèo ngay đoạn quyết định. Đen thôi chứ không phải đua kém. Trưởng đội nói đúng ý tôi. Sang mùa sau gặp lại, làng Hạ đừng vội mừng.",
+    "likes": 734,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Trai làng Hạ",
+        "location": "ven sông Cái",
+        "timestamp": "0018-07-18T19:00:00+07:00",
+        "body": "Va khúc gỗ là xui thật, công nhận. Nhưng đua sông là phải biết né vật trôi chứ, đó cũng là tài. Sang mùa gặp lại, tụi tôi chờ. Còn năm nay cứ để làng Hạ vào chung kết đã nhé.",
+        "likes": 512
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Trai làng Đoài",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-18T18:50:00+07:00",
+    "body": "Làng Đoài bọn em vượt lên bất ngờ ở lượt cuối nhờ đoạn nước rút quyết liệt, giành suất chung kết rồi! Không ai nghĩ tụi em vào được. Đoạn nước rút đó cả đội dốc hết sức, tay chèo ai cũng rộp da tay. Quá đã!",
+    "likes": 678
+  },
+  {
+    "id": "c4",
+    "username": "Già làng làng Trung",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-18T19:30:00+07:00",
+    "body": "Đội làng Trung chúng tôi vào chung kết nhờ sức bền ở cự ly dài. Cảm ơn bà con cổ vũ. Chung kết ba đội nảy lửa đây: nhà vô địch làng Hạ, sức bền làng Trung, và làng Đoài đang lên. Hẹn cả vùng ra bờ sông phiên tới.",
+    "likes": 723
+  },
+  {
+    "id": "c5",
+    "username": "Bác hoài nghi xóm Trại",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-18T20:10:00+07:00",
+    "body": "Khúc gỗ trôi giữa dòng làm lật nhịp cả một đội, ban tổ chức nên cho người dọn vật trôi trước mỗi lượt đua chứ. Thắng thua vì khúc gỗ thì oan cho đội mạnh. Năm sau rút kinh nghiệm đi.",
+    "likes": 589,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Ngô Văn Cường",
+        "location": "Phong Châu",
+        "timestamp": "0018-07-18T20:50:00+07:00",
+        "body": "Bác góp ý chí lý. Ban tổ chức cho biết trận chung kết sẽ cử thuyền dọn vật trôi và vớt gỗ trước giờ đua. Cảm ơn bác đã nhắc, đua sông an toàn công bằng mới vui.",
+        "likes": 467
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "Cô gái têm trầu",
+    "location": "Phong Châu",
+    "timestamp": "0018-07-18T21:00:00+07:00",
+    "body": "Đua thuyền hay nhất là đoạn nước rút về đích, sóng tung trắng xóa, trống thúc liên hồi. Em sẽ ra bờ sông xem chung kết, mang theo cả rổ trầu mời các tay chèo. Cổ vũ làng Đoài cửa dưới, biết đâu lại làm nên chuyện!",
+    "likes": 534
+  },
+  {
+    "id": "c7",
+    "username": "Người ven sông đã quen lũ",
+    "location": "ven sông Cái",
+    "timestamp": "0018-07-18T22:00:00+07:00",
+    "body": "Nước vừa rút là đua thuyền tưng bừng, đời ven sông buồn vui nối nhau. Ba đội vào chung kết đều xứng đáng. Mong trận cuối trời êm sông lặng, không có khúc gỗ nào trôi qua phá đám. Hẹn cả làng ra bờ sông phiên tới.",
+    "likes": 612
+  }
+]
